@@ -2,15 +2,16 @@
 
 ## Current Phase
 
-**SETUP COMPLETE — RESEARCH NOT STARTED**
+**SETUP AUDIT COMPLETE — RESEARCH NOT STARTED**
 
-프로젝트 구조, 단계별 실행 명세, 데이터 스키마와 템플릿을 준비했다.  
+프로젝트 구조, 단계별 실행 명세, 데이터 스키마와 템플릿에 대한 최종 구조 감사를 수행했고 발견된 불일치를 수정했다.  
 제품 후보 조사 및 순위 평가는 아직 시작하지 않았다.
 
 ## Current Step
 
 - Step: Setup
 - Status: REVIEW
+- Audit: COMPLETE
 - Next research step: Step 0 — Baseline
 - Detail: [plan/00_baseline.md](plan/00_baseline.md)
 
@@ -26,7 +27,9 @@
 - [x] Research templates created
 - [x] Decision logging structure created
 - [x] Public repository safety rule added
-- [ ] User reviews final structure
+- [x] Final structure audit completed
+- [x] Audit findings corrected
+- [ ] User reviews audit result
 - [ ] Step 0 started
 
 ## Do Not Do Yet
@@ -49,7 +52,7 @@
 
 ## Next Action
 
-저장소 구조와 실행 명세를 최종 점검한 뒤 Step 0을 시작한다.
+사용자에게 구조 감사 결과를 공유한다. 이후 사용자 지시에 따라 Step 0을 시작한다.
 
 ## Last Updated
 
