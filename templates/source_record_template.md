@@ -8,6 +8,7 @@
 - Title:
 - Published:
 - Checked:
+- Access status: DIRECT / LIMITED / SECONDARY_ONLY
 - URL:
 - Claim:
 - Direction:
