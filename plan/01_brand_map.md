@@ -27,13 +27,16 @@ Depends on: Step 0
 - 목표 브랜드 수 약 12~15개를 기본으로 하되 시장 상황에 따라 조정
 - Sennheiser, Beyerdynamic, Audio-Technica, AKG, Sony, FiiO, HIFIMAN, Philips, Shure 등 주요 범주 누락 여부 확인
 - 국내에서 의미 있는 신흥/가성비 브랜드 추가 탐색
+- 최근 브랜드 라인업은 공식 사이트와 최신 시장 자료로 교차확인
 
 자료가 부족한 경우 억지로 숫자를 채우지 않고 `Evidence insufficient`와 이유를 기록한다.
 
 ## Required Outputs
 
 - research/01_brand_map/result.md
-- data/candidates.csv에 아직 후보 확정 전 브랜드/모델 기초정보 반영 가능
+- data/evidence.csv 갱신
+
+Step 1은 브랜드 지도를 만드는 단계이며 `data/candidates.csv`에는 아직 후보 제품을 등록하지 않는다. 후보 등록은 Step 2에서 시작한다.
 
 ## Completion Gate
 
@@ -45,7 +48,7 @@ Depends on: Step 0
 ## Prohibited Shortcuts
 
 - 브랜드 인지도 자체를 음질 점수로 사용하지 않는다.
-- 이 단계에서 특정 제품을 최종 후보로 확정하지 않는다.
+- 이 단계에서 특정 제품을 후보 DB 또는 최종 후보로 확정하지 않는다.
 - 공식 MSRP를 제품 급의 근거로 사용하지 않는다.
 
 ## Handoff
