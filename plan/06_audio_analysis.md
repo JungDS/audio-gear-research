@@ -22,7 +22,7 @@ Depends on: Step 5
 3. 해상력, 분리도, 이미징, 사운드스테이지, 다이내믹, 보컬, 저역 질감, 고역 피로도에 대한 전문 청취평을 수집한다.
 4. 측정과 청취평이 일치하는 부분과 충돌하는 부분을 분리한다.
 5. 음악·영화·애니메이션·일반 게임에 대한 적합성을 분석한다.
-6. 항목별 Confidence를 기록한다.
+6. 음향 전반과 용도별 평가에 각각 Confidence를 기록한다.
 
 ## Minimum Coverage
 
@@ -36,7 +36,7 @@ Depends on: Step 5
 ## Required Outputs
 
 - research/06_audio_analysis/result.md
-- data/evaluations.csv 음향 항목
+- data/evaluations.csv 음향/용도 항목 및 Audio_Confidence, Use_Case_Confidence
 - data/evidence.csv
 
 ## Completion Gate
@@ -45,6 +45,7 @@ Depends on: Step 5
 - [ ] 객관/주관 근거가 구분되었다.
 - [ ] 충돌하는 근거와 불확실성이 기록되었다.
 - [ ] 사용자 용도별 평가가 포함되었다.
+- [ ] 음향 및 용도 평가의 Confidence가 기록되었다.
 
 ## Prohibited Shortcuts
 
