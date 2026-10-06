@@ -76,8 +76,15 @@ Step 4에서 원가격 스냅샷을 종합해 후보별 시장가격을 요약�
 
 ## evidence.csv
 
+후보가 아직 존재하지 않는 Step 0/1의 근거도 기록할 수 있도록 `Subject_Type`과 `Subject_ID`를 사용한다.
+
 - Evidence_ID
-- Candidate_ID
+- Subject_Type: BASELINE/BRAND/CANDIDATE/MARKET/METHOD
+- Subject_ID
+  - BASELINE 예: `H7_AE5`
+  - BRAND 예: `Sennheiser`
+  - CANDIDATE 예: `C001`
+  - MARKET 예: `KR_HEADPHONE_MARKET`
 - Stage
 - Evidence_Type: OFFICIAL/MEASUREMENT/PRO_REVIEW/COMMUNITY/KR_REVIEW/PRICE
 - Source_Name
