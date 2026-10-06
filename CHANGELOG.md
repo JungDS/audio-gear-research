@@ -2,6 +2,27 @@
 
 All notable changes to the research methodology and project structure are recorded here.
 
+## 2026-10-06 — Final structure audit
+
+### Fixed
+- Prevented Step 5 from rejecting candidates on price before deep audio analysis.
+- Split seller-level price observations from candidate-level market price summaries using `prices.csv` and `price_summary.csv`.
+- Aligned Step 8 H7 comparison fields with `evaluations.csv`.
+- Distinguished bass quantity change from bass quality improvement.
+- Added domain-level confidence fields for audio, use cases, comfort, QC, and H7 comparison.
+- Added `Revision` and `Inventory_Age_Risk` to candidate lifecycle data.
+- Replaced candidate-only evidence ownership with `Subject_Type/Subject_ID` so baseline, brand, market, and candidate evidence can all be recorded.
+- Added source access status to prevent indirect search snippets from being treated as directly verified sources.
+- Prevented Step 1 from writing premature product candidates before Step 2.
+- Added explicit handoff file convention for every completed stage.
+- Added a single source-of-truth rule for stage status to avoid status drift.
+- Added Pareto/dominance-based value analysis and prohibited unsupported pseudo-precise value scores.
+- Made Step 11 refresh price data and route newly discovered competitors back through the normal workflow.
+
+### Result
+- No known structural blocker remains before Step 0.
+- Product research has not started.
+
 ## 2026-10-06 — Execution structure completed
 
 ### Added
