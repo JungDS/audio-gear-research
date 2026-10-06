@@ -1,11 +1,18 @@
 # Master Research Plan
 
-이 파일은 **전체 프로젝트의 지도와 단계 상태만 관리한다.**  
+이 파일은 **전체 프로젝트의 지도와 단계 상태 요약만 관리한다.**  
 각 단계의 실제 실행 절차는 `plan/` 아래 상세 파일이 유일한 기준이다.
 
 ## Project Goal
 
 한국 시장에서 실제 구매 가능한 헤드폰/헤드셋 중 **Creative Sound BlasterX H7 + Sound Blaster AE-5**보다 음악, 일반 게임, 애니메이션, 영화 및 일상 감상에서 체감 가능한 향상을 제공하는 제품을 찾는다.
+
+## Status Source of Truth
+
+- 현재 작업 위치의 기준: `STATUS.md`
+- 개별 단계 상태의 기준: 해당 `plan/XX_*.md` 첫 줄
+- 아래 Master Index의 Status는 **요약 미러**이며 단계 파일과 항상 함께 갱신한다.
+- 상태가 충돌하면 단계 파일을 우선하고, `PLAN.md`와 `STATUS.md`를 즉시 동기화한다.
 
 ## Master Index
 
@@ -34,12 +41,12 @@
 4. 현재 단계 Input 확인
 5. Exact Tasks 순서대로 수행
 6. 근거를 `data/evidence.csv`에 기록
-7. 구조화 데이터와 연구 보고서 갱신
+7. 구조화 데이터와 `research/XX_*/result.md` 갱신
 8. Completion Gate 전부 점검
 9. 사용자에게 단계 결과 공유
 10. 사용자 피드백 반영
-11. Handoff 작성
-12. `STATUS.md`와 Master Index 상태 갱신
+11. `templates/handoff_template.md` 형식으로 `research/XX_*/handoff.md` 작성
+12. 단계 파일, `STATUS.md`, Master Index 상태를 함께 갱신
 
 ## State Transition Rule
 
