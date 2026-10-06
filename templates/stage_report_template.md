@@ -18,6 +18,7 @@
 
 - candidates.csv:
 - prices.csv:
+- price_summary.csv:
 - evidence.csv:
 - evaluations.csv:
 
@@ -31,6 +32,7 @@
 
 ## Handoff Summary
 
+- Handoff file: `research/XX_stage/handoff.md`
 - Next stage:
 - Required inputs:
 - Open questions:
