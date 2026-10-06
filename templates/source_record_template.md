@@ -1,7 +1,8 @@
 # Source Record
 
 - Evidence ID:
-- Candidate ID:
+- Subject type: BASELINE / BRAND / CANDIDATE / MARKET / METHOD
+- Subject ID:
 - Stage:
 - Evidence type:
 - Source:
