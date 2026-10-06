@@ -2,7 +2,24 @@
 
 All notable changes to the research methodology and project structure are recorded here.
 
-## 2026-10-06
+## 2026-10-06 — Execution structure completed
+
+### Added
+- Split the master plan from stage-specific execution plans.
+- Added `plan/00` through `plan/11` detailed stage specifications.
+- Added explicit stage status, dependencies, inputs, exact tasks, minimum coverage, outputs, completion gates, prohibited shortcuts, and handoff requirements.
+- Added data schemas for candidates, prices, evidence, and evaluations.
+- Added reusable research templates.
+- Added decision and rejection logs.
+- Added repository navigation and operating procedure.
+- Added Public repository safety rules.
+
+### Changed
+- `PLAN.md` now serves as the Master Index rather than duplicating every stage procedure.
+- `STATUS.md` now points directly to the current stage detail file.
+- Stage completion now follows a defined state transition and mandatory Gate review.
+
+## 2026-10-06 — Initial setup
 
 ### Added
 - Created the `audio-gear-research` repository.
