@@ -2,6 +2,24 @@
 
 All notable changes to the research methodology and project structure are recorded here.
 
+## 2026-10-07 — Step 0 baseline prepared
+
+### Added
+- Confirmed current headset revision as Sound BlasterX H7 Tournament Edition.
+- Recorded current 3.5mm analog → AE-5 headphone-output signal path.
+- Added official H7 TE and AE-5 specifications.
+- Added independent passive-mode measurement evidence and professional listening reviews.
+- Added long-term comfort/material user evidence.
+- Defined the qualitative H7 + AE-5 baseline for audio, comfort and use cases.
+- Defined the later upgrade threshold and user-priority tiers.
+
+### Data Model
+- Added `USER_CONTEXT` evidence type for non-sensitive project inputs such as current hardware configuration and reported listening preferences.
+
+### Status
+- Step 0 moved to REVIEW.
+- Product candidate research has not started.
+
 ## 2026-10-06 — Final structure audit
 
 ### Fixed
@@ -21,7 +39,6 @@ All notable changes to the research methodology and project structure are record
 
 ### Result
 - No known structural blocker remains before Step 0.
-- Product research has not started.
 
 ## 2026-10-06 — Execution structure completed
 
@@ -37,13 +54,6 @@ All notable changes to the research methodology and project structure are record
 - Added recency rules: 2025~2026 recommendation/market material is preferred, while older stable measurements may still be used.
 - Added source-access integrity rules so inaccessible original pages are never treated as directly verified.
 
-### Changed
-- `PLAN.md` now serves as the Master Index rather than duplicating every stage procedure.
-- `STATUS.md` now points directly to the current stage detail file.
-- Stage completion now follows a defined state transition and mandatory Gate review.
-- Candidate discovery now explicitly includes Reddit, Head-Fi, professional measurement/review sources, Naver reviews, Korean community material, and Korea-market reverse discovery.
-- Naver-style recommendation/ranking content is treated primarily as candidate-discovery evidence unless independently validated.
-
 ## 2026-10-06 — Initial setup
 
 ### Added
@@ -52,11 +62,3 @@ All notable changes to the research methodology and project structure are record
 - Added an 11-step research workflow.
 - Added mandatory stage gates.
 - Added rules separating product discovery, pricing, audio analysis, comfort analysis, H7 comparison, value analysis, and counter-review.
-
-### Methodology Decisions
-- MSRP and nominal discount percentage will not be used to determine product class or value.
-- Korean real-world selling prices will be the primary price basis.
-- Candidate discovery will use three independent paths: brand-based, community/expert-based, and Korea-market-based.
-- Newer products receive preference only when price and performance are otherwise comparable.
-- Long-term comfort, QC, support, replaceable parts, and product lifecycle will be explicitly evaluated.
-- Final recommendations must pass a deliberate counter-review step.
