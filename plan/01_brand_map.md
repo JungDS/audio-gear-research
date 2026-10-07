@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 1
 Depends on: Step 0
 
@@ -40,10 +40,10 @@ Step 1은 브랜드 지도를 만드는 단계이며 `data/candidates.csv`에는
 
 ## Completion Gate
 
-- [ ] 주요 음향 브랜드가 충분히 포함되었다.
-- [ ] 각 브랜드의 현행 주요 제품군을 확인했다.
-- [ ] 특정 제조사가 이유 없이 과대표집되지 않았다.
-- [ ] 신형/구형 라인업이 구분되었다.
+- [x] 주요 음향 브랜드가 충분히 포함되었다.
+- [x] 각 브랜드의 현행 주요 제품군을 확인했다.
+- [x] 특정 제조사가 이유 없이 과대표집되지 않았다.
+- [x] 신형/구형 라인업이 구분되었다.
 
 ## Prohibited Shortcuts
 
@@ -56,4 +56,4 @@ Step 1은 브랜드 지도를 만드는 단계이며 `data/candidates.csv`에는
 - Step 2A가 사용할 브랜드 및 라인업 목록을 전달한다.
 - 시장/커뮤니티 기반 탐색에서 누락 여부를 검증할 수 있도록 브랜드 범위를 기록한다.
 
-완료 후 이 파일의 Status를 `REVIEW`로 변경하고 사용자 검토를 거친 뒤에만 `COMPLETED`로 변경한다.
+Brand Map 결과는 `research/01_brand_map/result.md`에 기록했다. 사용자 검토 후에만 `COMPLETED`로 변경하고 Step 2로 진행한다.
