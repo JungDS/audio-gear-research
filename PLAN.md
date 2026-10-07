@@ -18,7 +18,7 @@
 
 | Step | Stage | Status | Depends on | Detail |
 |---:|---|---|---|---|
-| 0 | Baseline | NOT_STARTED | Setup | [plan/00_baseline.md](plan/00_baseline.md) |
+| 0 | Baseline | IN_PROGRESS | Setup | [plan/00_baseline.md](plan/00_baseline.md) |
 | 1 | Brand Map | NOT_STARTED | 0 | [plan/01_brand_map.md](plan/01_brand_map.md) |
 | 2 | Candidate Discovery | NOT_STARTED | 1 | [plan/02_candidate_discovery.md](plan/02_candidate_discovery.md) |
 | 3 | Product Status & Lifecycle | NOT_STARTED | 2 | [plan/03_product_status.md](plan/03_product_status.md) |
