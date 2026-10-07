@@ -86,7 +86,7 @@ Step 4에서 원가격 스냅샷을 종합해 후보별 시장가격을 요약�
   - CANDIDATE 예: `C001`
   - MARKET 예: `KR_HEADPHONE_MARKET`
 - Stage
-- Evidence_Type: OFFICIAL/MEASUREMENT/PRO_REVIEW/COMMUNITY/KR_REVIEW/PRICE
+- Evidence_Type: USER_CONTEXT/OFFICIAL/MEASUREMENT/PRO_REVIEW/COMMUNITY/KR_REVIEW/PRICE
 - Source_Name
 - Title
 - Published_Date
@@ -97,6 +97,8 @@ Step 4에서 원가격 스냅샷을 종합해 후보별 시장가격을 요약�
 - Direction: POSITIVE/NEGATIVE/NEUTRAL/MIXED
 - Confidence
 - Notes
+
+`USER_CONTEXT`는 현재 장비 연결 방식이나 사용자가 직접 보고한 청취 체감처럼 공개 웹 출처가 아닌 프로젝트 입력에 사용한다. 공개 저장소에는 민감정보를 넣지 않는다.
 
 ## evaluations.csv
 
