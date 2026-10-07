@@ -5,7 +5,7 @@
 
 ## Project Goal
 
-한국 시장에서 실제 구매 가능한 헤드폰/헤드셋 중 **Creative Sound BlasterX H7 + Sound Blaster AE-5**보다 음악, 일반 게임, 애니메이션, 영화 및 일상 감상에서 체감 가능한 향상을 제공하는 제품을 찾는다.
+한국 시장에서 실제 구매 가능한 헤드폰/헤드셋 중 **Creative Sound BlasterX H7 Tournament Edition + Sound BlasterX AE-5**보다 음악, 일반 게임, 애니메이션, 영화 및 일상 감상에서 체감 가능한 향상을 제공하는 제품을 찾는다.
 
 ## Status Source of Truth
 
@@ -18,7 +18,7 @@
 
 | Step | Stage | Status | Depends on | Detail |
 |---:|---|---|---|---|
-| 0 | Baseline | IN_PROGRESS | Setup | [plan/00_baseline.md](plan/00_baseline.md) |
+| 0 | Baseline | REVIEW | Setup | [plan/00_baseline.md](plan/00_baseline.md) |
 | 1 | Brand Map | NOT_STARTED | 0 | [plan/01_brand_map.md](plan/01_brand_map.md) |
 | 2 | Candidate Discovery | NOT_STARTED | 1 | [plan/02_candidate_discovery.md](plan/02_candidate_discovery.md) |
 | 3 | Product Status & Lifecycle | NOT_STARTED | 2 | [plan/03_product_status.md](plan/03_product_status.md) |
