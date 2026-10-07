@@ -2,43 +2,35 @@
 
 ## Current Phase
 
-**SETUP AUDIT COMPLETE — RESEARCH NOT STARTED**
+**STEP 0 IN PROGRESS — BASELINE**
 
-프로젝트 구조, 단계별 실행 명세, 데이터 스키마와 템플릿에 대한 최종 구조 감사를 수행했고 발견된 불일치를 수정했다.  
-제품 후보 조사 및 순위 평가는 아직 시작하지 않았다.
+프로젝트 구조 감사는 완료되었고, 현재 **Step 0 — Baseline**을 진행 중이다.
 
 ## Current Step
 
-- Step: Setup
-- Status: REVIEW
-- Audit: COMPLETE
-- Next research step: Step 0 — Baseline
+- Step: 0 — Baseline
+- Status: IN_PROGRESS
 - Detail: [plan/00_baseline.md](plan/00_baseline.md)
 
-## Setup Progress
+## Progress
 
 - [x] GitHub repository created
-- [x] Repository purpose defined
-- [x] Master PLAN created
-- [x] Global RULES created
-- [x] Stage-specific plan files created
-- [x] Directory structure defined
-- [x] Data schema defined
-- [x] Research templates created
-- [x] Decision logging structure created
-- [x] Public repository safety rule added
-- [x] Final structure audit completed
-- [x] Audit findings corrected
-- [ ] User reviews audit result
-- [ ] Step 0 started
+- [x] Project structure and audit completed
+- [x] Step 0 started
+- [ ] H7 exact model/revision confirmed
+- [ ] H7 official specifications confirmed
+- [ ] AE-5 output and current connection path confirmed
+- [ ] Independent measurements / professional reviews collected
+- [ ] Long-term user feedback collected
+- [ ] Baseline comparison matrix finalized
+- [ ] Step 0 user review completed
 
 ## Do Not Do Yet
 
-- 제품 추천 순위 작성
+- 후보 제품 추천 순위 작성
 - 특정 브랜드 우선 선정
 - 후보 제품 조사 시작
 - 국내 가격 수집
-- H7 대비 점수화
 - 최종 후보 선정
 
 ## Current Reference System
@@ -52,8 +44,8 @@
 
 ## Next Action
 
-사용자에게 구조 감사 결과를 공유한다. 이후 사용자 지시에 따라 Step 0을 시작한다.
+H7의 정확한 리비전, AE-5 연결 상태, 공식 사양과 독립 측정/사용자 자료를 확인해 Baseline을 작성한다.
 
 ## Last Updated
 
-2026-10-06
+2026-10-07
