@@ -1,4 +1,4 @@
-Status: REVIEW
+Status: COMPLETED
 Stage: 0
 Depends on: Project setup
 
@@ -51,6 +51,6 @@ Depends on: Project setup
 
 ## Handoff
 
-사용자 검토 후 Step 0을 COMPLETED로 변경하고 `research/00_baseline/handoff.md`를 작성한다.
+`research/00_baseline/handoff.md` 작성 완료.
 
-완료 후에만 Step 1 — Brand Map으로 진행한다.
+Step 1 — Brand Map으로 진행한다.
