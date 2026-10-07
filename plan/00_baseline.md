@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 0
 Depends on: Project setup
 
@@ -6,13 +6,13 @@ Depends on: Project setup
 
 ## Objective
 
-현재 Creative Sound BlasterX H7 + Sound Blaster AE-5를 모든 후보의 비교 기준으로 고정한다.
+현재 Creative Sound BlasterX H7 Tournament Edition + Sound BlasterX AE-5를 모든 후보의 비교 기준으로 고정한다.
 
 ## Inputs
 
 - 현재 사용 장비 정보
 - RULES.md
-- 제조사 공식 자료 및 가능한 독립 측정/리뷰
+- 제조사 공식 자료 및 독립 측정/리뷰
 
 ## Exact Tasks
 
@@ -30,20 +30,18 @@ Depends on: Project setup
 - 장기 사용자 경험 자료 가능한 경우 2개 이상
 - 확인한 사실과 사용자 체감/취향을 분리
 
-자료가 부족한 경우 억지로 숫자를 채우지 않고 `Evidence insufficient`와 이유를 기록한다.
-
 ## Required Outputs
 
-- research/00_baseline/result.md
-- data/evidence.csv 갱신
-- 향후 evaluations.csv에 사용할 비교 기준 확정
+- [x] research/00_baseline/result.md
+- [x] data/evidence.csv 갱신
+- [x] 향후 evaluations.csv에 사용할 비교 기준 확정
 
 ## Completion Gate
 
-- [ ] H7 + AE-5 기준 환경이 명확히 정의되었다.
-- [ ] 비교 항목이 빠짐없이 고정되었다.
-- [ ] 강점/약점이 근거와 함께 기록되었다.
-- [ ] 사용자 우선순위가 최종 확인되었다.
+- [x] H7 + AE-5 기준 환경이 명확히 정의되었다.
+- [x] 비교 항목이 빠짐없이 고정되었다.
+- [x] 강점/약점이 근거와 함께 기록되었다.
+- [x] 사용자 우선순위가 현재 대화 기준으로 정리되었다.
 
 ## Prohibited Shortcuts
 
@@ -53,7 +51,6 @@ Depends on: Project setup
 
 ## Handoff
 
-- Step 1이 사용할 비교 기준과 사용자 우선순위를 요약한다.
-- STATUS.md의 다음 단계가 Step 1을 가리키도록 갱신한다.
+사용자 검토 후 Step 0을 COMPLETED로 변경하고 `research/00_baseline/handoff.md`를 작성한다.
 
-완료 후 이 파일의 Status를 `REVIEW`로 변경하고 사용자 검토를 거친 뒤에만 `COMPLETED`로 변경한다.
+완료 후에만 Step 1 — Brand Map으로 진행한다.
