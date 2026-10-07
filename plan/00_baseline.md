@@ -1,4 +1,4 @@
-Status: NOT_STARTED
+Status: IN_PROGRESS
 Stage: 0
 Depends on: Project setup
 
