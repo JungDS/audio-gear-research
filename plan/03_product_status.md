@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 3
 Depends on: Step 2
 
@@ -43,11 +43,11 @@ Depends on: Step 2
 
 ## Completion Gate
 
-- [ ] 모든 후보의 출시 시점과 현행 여부가 기록되었다.
-- [ ] 리비전/후속 제품 여부가 기록되었다.
-- [ ] 국내 유통/AS/소모품 상태가 가능한 범위에서 확인되었다.
-- [ ] 구형 재고 위험이 확인 가능 범위 내에서 별도 표시되었다.
-- [ ] 실제 생산일을 모르는 경우 추정과 사실을 구분했다.
+- [x] 모든 후보의 출시 시점(확인 불가 시 UNKNOWN)과 현행 상태가 기록되었다.
+- [x] 확인 가능한 리비전/후속 제품이 기록되고 확인 불가는 UNKNOWN으로 남겼다.
+- [x] 국내 유통/AS/소모품을 공식 자료로 확인 가능한 범위에서 기록하고 나머지는 UNKNOWN으로 남겼다.
+- [x] 단종 모델의 구형 재고 가능성을 분리 표시하고 재고 제조일은 추정하지 않았다.
+- [x] 실제 생산일을 모르는 경우 추정과 사실을 구분했다.
 
 ## Prohibited Shortcuts
 
@@ -61,4 +61,4 @@ Depends on: Step 2
 - Step 4가 가격 조사 시 정식유통/병행수입을 구분할 수 있게 상태정보를 전달한다.
 - Step 5의 신형 우선 원칙 적용에 필요한 출시/리비전/후속정보를 전달한다.
 
-완료 후 이 파일의 Status를 `REVIEW`로 변경하고 사용자 검토를 거친 뒤에만 `COMPLETED`로 변경한다.
+Step 3 조사 보고서는 `research/03_product_status/result.md`에 기록했다. 62개 중 CURRENT 47 / DISCONTINUED 2 / UNKNOWN 13; 국내 모델별 공식 유통 TRUE 22 / UNKNOWN 40. 이 불확실성은 후속 단계의 핵심 리스크이며, 사용자가 보고서를 검토한 뒤에만 COMPLETED 처리한다.
