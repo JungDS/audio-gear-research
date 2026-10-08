@@ -1,4 +1,4 @@
-Status: NOT_STARTED
+Status: IN_PROGRESS
 Stage: 3
 Depends on: Step 2
 
