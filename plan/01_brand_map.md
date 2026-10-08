@@ -1,4 +1,4 @@
-Status: REVIEW
+Status: COMPLETED
 Stage: 1
 Depends on: Step 0
 
@@ -56,4 +56,4 @@ Step 1은 브랜드 지도를 만드는 단계이며 `data/candidates.csv`에는
 - Step 2A가 사용할 브랜드 및 라인업 목록을 전달한다.
 - 시장/커뮤니티 기반 탐색에서 누락 여부를 검증할 수 있도록 브랜드 범위를 기록한다.
 
-Brand Map 결과는 `research/01_brand_map/result.md`에 기록했다. 사용자 검토 후에만 `COMPLETED`로 변경하고 Step 2로 진행한다.
+Brand Map 결과와 handoff 기록을 완료했다. Step 2 — Candidate Discovery로 진행한다.
