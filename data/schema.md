@@ -22,6 +22,12 @@
 - Release_Year
 - Revision
 - Lifecycle_Status: CURRENT/DISCONTINUED/UNKNOWN
+  - CURRENT = 제조사 공식 채널에서 현재 제품으로 판매/홍보/지원되는 상태. 실제 생산 지속이나 새 재고의 제조일은 보장하지 않음.
+  - DISCONTINUED = 제조사 또는 한국 공식 지원 페이지가 명시적으로 단종 표시.
+  - UNKNOWN = 현재 신품 생산/판매 또는 단종을 확정할 신뢰할 근거 부족.
+- Official_KR_Distribution: TRUE/UNKNOWN (공식 국내 제품 페이지/모델 취급이 확인되는 경우만 TRUE, 브랜드 유통사만 존재한다면 UNKNOWN)
+- Parts_Availability: OFFICIAL_PARTS/REPLACEABLE/UNKNOWN (한국 내 즉시 재고 보장은 아님)
+- Inventory_Age_Risk: HIGH/MEDIUM/LOW/UNKNOWN (추정 위험도는 근거와 함께, 실제 제조일 미확인 시 오인 금지)
 - Successor_Model
 - Form: OPEN/CLOSED/SEMI_OPEN/UNKNOWN
 - Driver_Type
