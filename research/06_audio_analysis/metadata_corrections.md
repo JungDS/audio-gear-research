@@ -1,17 +1,18 @@
 # Step 6 Product Data Corrections / Pending Verification
 Date: 2026-10-09
-Status: OPEN DATA-QUALITY ACTIONS (not a reason to invent sound scores)
+Status: PARTIALLY RESOLVED (2026-10-09)
 
 ## Correction 1: FiiO FT1 PRO (C016)
 - The existing data/candidates.csv says Release_Year=2025.
 - DIY-Audio-Heaven measured/published the FT1 PRO on November 27, **2024**, and explicitly describes the product as launched November 2024.
-- **Correction pending:** Release_Year=2024 (current CSV 2025 is stale).
-- Primary supporting link: https://diyaudioheaven.wordpress.com/measurements/fiio/ft1-pro/
+- **RESOLVED 2026-10-09:** `data/candidates.csv` C016 Release_Year corrected from 2025 to **2024** using FiiO official 2024-11-08 on-sale announcement.
+- Primary supporting link: https://www.fiio.com/newsinfo/973648.html (official original 2024-11-08 launch).
+- Additional corroboration: https://diyaudioheaven.wordpress.com/measurements/fiio/ft1-pro/
 - Do not confuse the Korean Danawa listing/registration month in 2025 with global launch year.
 
 ## Correction 2: FiiO FT3 (C017)
 - One CSV row 'FT3' covers at least **32Ω and 350Ω versions**, and these do NOT share identical tuning, diaphragm construction or electrical load.
-- Until exact model/SKU and matching Korean price are resolved, treat FT3 acoustic comparison as **variant-unknown**. Do not assign 350Ω test measurements to 32Ω purchase candidate.
+- **PARTIALLY RESOLVED 2026-10-09:** C017 `Revision` is now `32_OR_350_OHM_SKU_UNRESOLVED`. Until exact model/SKU and matching Korean price are resolved, treat FT3 acoustic comparison as **variant-unknown**. Do not assign 350Ω test measurements to 32Ω purchase candidate.
 - Official FiiO references:
   - https://www.fiio.com/newsinfo/877944.html
   - https://www.fiio.com/newsinfo/825261.html
@@ -25,4 +26,4 @@ Status: OPEN DATA-QUALITY ACTIONS (not a reason to invent sound scores)
 - https://headphones.com/products/aune-ar5000-mk2-headphones
 
 ## Interpretation
-These are product-record hygiene issues. They do not justify rejecting the models or inventing quality differences. Step 6 audio matrix retains the evidence and marks confidence accordingly. The original candidate CSV must be synchronized when a permitted small patch/write route is available.
+These are product-record hygiene issues. They do not justify rejecting the models or inventing quality differences. Step 6 audio matrix retains the evidence and marks confidence accordingly. The global launch-year correction for FT1 PRO and explicit FT3 revision ambiguity flag have both been synchronized into candidates.csv. The FT3 exact SKU split and AR5000 MK2 impedance remain outstanding.
