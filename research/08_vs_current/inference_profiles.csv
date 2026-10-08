@@ -1,0 +1,30 @@
+Candidate_ID,Stage_Delta,Bass_Quantity,Bass_Quality_Delta,Vocal_Delta,Treble_Quality_Delta,Music_Delta,General_Gaming_Delta,Animation_Delta,Movies_Delta,Upgrade_Likelihood,Confidence,Positive_Basis,Tradeoffs
+C001,UP1,LESS,UP1,UP2,UP1,UP2,UP1,UP2,UNKNOWN,LIKELY_MEANINGFUL,MEDIUM,평탄한 중역으로 H7 패시브의 보컬 후퇴를 개선할 개연성이 큼,"오픈형 차음 손실과 극저역 감소, HD560S 리비전"
+C002,UP1,LESS,UP1,UP2,UP1,UP2,UP1,UP2,UNKNOWN,LIKELY_MEANINGFUL,MEDIUM,HD550의 균형 잡힌 중역과 덜 둔탁한 저역 예상,HD560S 대비 가격 프리미엄의 음향 추가 개선은 소규모일 수 있음
+C003,UNKNOWN,LESS,UP1,UP2,UP1,UP2,UNKNOWN,UP2,UNKNOWN,LIKELY_MEANINGFUL,MEDIUM,HD600의 자연스러운 보컬과 중역이 H7 패시브의 핵심 약점과 정면 대응,"좁게 느껴질 수 있는 공간과 영화 초저역 부족, HD600 패드 상태, 앰프 여유"
+C010,UP1,LESS,UP1,UP2,UNKNOWN,UP1,UP1,UP1,UNKNOWN,POSSIBLE_MEANINGFUL,MEDIUM,ATH-R50x 중역 평탄성으로 목소리 표현 개선 예상,6–10kHz 고역 상승은 실제 해상력 향상과 다르며 피로 가능성
+C011,UP1,LESS,UP1,UP2,UNKNOWN,UP2,UP1,UP2,UNKNOWN,LIKELY_MEANINGFUL,LOW,자연스러운 보컬과 가벼운 오픈 모니터 설계의 개선 잠재력,470Ω 구동 여유와 컵 각도 제약이 체감 개선을 제한할 수 있음
+C013,UNKNOWN,UNKNOWN,UP1,UP1,UP1,UP1,UNKNOWN,UP1,UP1,POSSIBLE_MEANINGFUL,MEDIUM,"MDR-M1 밀폐 유지와 극저역 확장, H7 대비 균형 개선 예상",4kHz 존재감 저하와 얕은 이어컵으로 보컬/귀 접촉 유의
+C014,UP1,LESS,UP1,UP1,UNKNOWN,UP1,UP1,UP1,UNKNOWN,POSSIBLE_MEANINGFUL,MEDIUM,MDR-MV1 공간 인상과 저역 확장이 좋은 오픈형 변화,고역 자극·치찰음과 개방형 차음 손실
+C015,UNKNOWN,UNKNOWN,UP1,UP1,UP1,UP1,UNKNOWN,UP1,UP1,POSSIBLE_MEANINGFUL,MEDIUM,FT1 밀폐형 유지하면서 저역 질감과 음색 균형 개선 가능,H7과 같이 저역 양감이 많아 보컬 차이가 작을 수 있고 초기 피벗 고정 QC 위험
+C016,UP1,LESS,UP1,UP2,UP1,UP2,UP1,UP2,UNKNOWN,LIKELY_MEANINGFUL,MEDIUM,FT1 PRO 중역 평탄성과 저왜곡 평판형으로 H7 보컬·음악 향상 유력,"초기 생산분 피벗 결함/저음 잡음, 오픈형 영화 저역과 차음"
+C032,UP1,UNKNOWN,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,POSSIBLE_MEANINGFUL,LOW,AR5000 MK2 개방형 공간 및 재설계 착용감 잠재력,"단일 계측 자료, H7과 비슷한 따뜻한 톤, 발표된 임피던스 수치 충돌"
+C054,UP1,LESS,UP1,UP2,UP1,UP2,UP1,UP2,UNKNOWN,LIKELY_MEANINGFUL,MEDIUM,HD505는 균형 잡힌 오픈형으로 H7의 중역 후퇴 개선 예상,HD560S·550 대비 고유 장점 크기는 미검증
+C057,UP1,LESS,UNKNOWN,UP2,UP1,UP1,UP1,UP2,UNKNOWN,POSSIBLE_MEANINGFUL,MEDIUM,"H6 Air 개방형 자연스러운 대사와 낮은 압박감, 일반 게임 사용성","심층 저역 부족과 누음, MV1 드라이버 공유는 동일 음질의 증거 아님"
+C004,UP1,LESS,UP1,UP2,UP1,UP2,UP1,UP2,UNKNOWN,LIKELY_MEANINGFUL,MEDIUM,HD490 PRO는 패드별 균형을 선택할 수 있어 H7 중역 후퇴 개선 가능,Mixing/Producing 패드별 음질·착용감 구분 필수
+C006,UP1,LESS,UP1,UP1,UNKNOWN,UP1,UP1,UP1,UNKNOWN,POSSIBLE_MEANINGFUL,MEDIUM,DT900 PRO X 탄탄한 오픈형 제작·공간감 및 조금 더 균형 잡힌 톤,"4kHz 부근 중역 존재감 저하, 상대적 고가, 측압 차이"
+C012,UP1,LESS,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,SMALL_OR_UNCERTAIN,LOW,ATH-R30x 보컬 전면성이 H7보다 개선될 개연성은 있음,고역 거침·저역 부족으로 음악/영화 체감 증분 불확실
+C017,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,INSUFFICIENT_VARIANT_DATA,UNKNOWN,FT3는 32Ω과 350Ω이 서로 다른 드라이버·음색이어서 단일 제품 기준 비교 불가,정확한 구매 후보의 임피던스·패드·국내가 확정 필요
+C018,UP1,UNKNOWN,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,POSSIBLE_MEANINGFUL,LOW,FT5 오픈 평판의 부드러운 보컬 및 공간 차이 가능,어두운 고역과 456g 무게로 체감 개선이 아닐 수 있음
+C024,UNKNOWN,UNKNOWN,UP1,UP2,UP1,UP2,UNKNOWN,UP2,UP1,LIKELY_MEANINGFUL,MEDIUM,K371은 밀폐형 초저역과 비교적 균형 잡힌 중역을 동시에 보존,"안경·밀착에 따른 저역 변화, 힌지/착용 개인차"
+C027,UNKNOWN,UNKNOWN,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,SMALL_OR_UNCERTAIN,LOW,SRH440A는 유선 모니터 지향 보컬 밸런스로 H7 대비 방향성 개선 가능,실측 A 리비전 자료 부족·장시간 착용/QC 미확인
+C028,UNKNOWN,UNKNOWN,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,UP1,UNKNOWN,SMALL_OR_UNCERTAIN,LOW,SRH840A 비교적 자연스러운 중역과 음악용 조정 가능,"정량 비교 자료 부족, 수입/정품 차이 및 패드 상태"
+C030,UP1,UNKNOWN,UP1,UP1,UNKNOWN,UP1,UP1,UP1,UNKNOWN,POSSIBLE_MEANINGFUL,LOW,Meze 105 AER 음악적인 중역·넓은 무대와 H7보다 덜 답답한 느낌 예상,"고역 평가 상충, 귀 접촉 가능성, 별도 실청 비교 필요"
+C033,UNKNOWN,UNKNOWN,UP1,UP2,UNKNOWN,UP1,UNKNOWN,UP2,UP1,POSSIBLE_MEANINGFUL,LOW,SR7000은 밀폐형 유지하면서 상대적으로 중역 명료도 향상 가능,상중역 피크 자극 가능성과 가격대 비례 실익 미검증
+C037,UP1,LESS,UP1,UP1,UNKNOWN,UNKNOWN,UNKNOWN,UP1,UNKNOWN,UNCERTAIN,LOW,MM-100의 중역 전면성과 평판형 개방감은 H7과 다른 장점,"전문 리뷰가 음악 감상에 대해 상충, 475g 장시간 부담"
+C039,UNKNOWN,UNKNOWN,UP1,UP1,UP1,UP1,UNKNOWN,UP1,UP1,POSSIBLE_MEANINGFUL,LOW,Azurys 밀폐형 고급 저역 제어와 보컬 균형 개선 잠재력,높은 가격에도 실제 해상력 차이가 입증되지 않음
+C040,UP1,LESS,UP1,UP2,UP1,UP2,UNKNOWN,UP2,UNKNOWN,LIKELY_MEANINGFUL,LOW,Hadenys의 매끄러운 보컬/중역과 개방감은 H7 패시브 대비 음색 업그레이드 개연성,"좁은 컵·높은 측압 불편 사례, 고가 대비 세부 기술 향상 불확실"
+C041,UP1,LESS,UP1,UP2,UNKNOWN,UP1,UP1,UP2,UNKNOWN,POSSIBLE_MEANINGFUL,LOW,Hi-X65의 분석적인 중역과 공간 표현으로 대사·악기 명료화 가능,고역 치찰 자극과 장시간 헤드밴드 불편 가능성
+C044,UP1,LESS,UNKNOWN,UP2,UP1,UP1,UP1,UP2,UNKNOWN,POSSIBLE_MEANINGFUL,LOW,VIRTUOSO PRO는 패시브 유선 오픈형으로 H7의 중역 묻힘 개선 가능,"측정실 독립성 부족, H7보다 영화 저역 임팩트 낮을 수 있음"
+C052,UP1,LESS,UP1,UP2,UP1,UP2,UP1,UP2,UNKNOWN,LIKELY_MEANINGFUL,MEDIUM,ROG Kithara는 패시브 오픈 평판형의 중역·공간으로 H7 아날로그에서 큰 성향 변화 예상,"420g 무게와 강한 측압, 저역 타격감/차음 저하, 높은 가격은 Step9"
+C060,UNKNOWN,UNKNOWN,UP1,UP2,UNKNOWN,UP1,UNKNOWN,UP2,UP1,POSSIBLE_MEANINGFUL,LOW,K361은 저렴한 밀폐형으로 H7보다 자연스러운 보컬 응답 예상,"독립 계측 근거 한 곳 집중, 귀 밀착과 패드 개인차"
