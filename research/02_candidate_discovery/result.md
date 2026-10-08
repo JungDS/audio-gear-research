@@ -3,7 +3,7 @@
 Date: 2026-10-08
 Status: REVIEW
 
-**CURRENT TOTAL: 58 candidates (original 43 retained; 15 added on 2026-10-08).**
+**CURRENT TOTAL: 62 candidates (original 43 retained; 19 added on 2026-10-08).**
 
 **Supplemental bias-correction report:** [supplemental_review.md](supplemental_review.md). The original 43-candidate findings below are the first-pass snapshot, not the current total.
 
@@ -109,7 +109,7 @@ They remain in discovery because Step 2 does not eliminate by price.
 
 ## Merged Candidate Pool
 
-The original pass registered 43 candidates. The supplemental review added 15 more; 58 are currently registered in data/candidates.csv.
+The original pass registered 43 candidates. The supplemental review added 19 more; 62 are currently registered in data/candidates.csv.
 
 Each row preserves:
 - Discovery_Brand
@@ -139,6 +139,6 @@ Enuri:
 - [x] every candidate retains discovery-route flags
 - [x] no early final ranking created
 
-Step 2 remains REVIEW after supplemental correction. The supplemental source evidence is in E0054–E0079.
+Step 2 remains REVIEW after supplemental correction. The supplemental source evidence is in E0054–E0088.
 
 Next after approval: Step 3 — Product Status & Lifecycle.
