@@ -1,4 +1,4 @@
-Status: REVIEW
+Status: COMPLETED
 Stage: 2
 Depends on: Step 1
 
@@ -75,4 +75,4 @@ Depends on: Step 1
 추가 보고서: `research/02_candidate_discovery/supplemental_review.md`
 근거: `data/evidence.csv` E0054~E0088
 
-보완 범위는 최초 15개 브랜드로 제한하지 않았으며, 원문 접근 불가 네이버 및 확인이 불완전한 에누리 자료는 한계로 명시했다. 사용자가 보완 결과를 검토한 후에만 `COMPLETED`로 변경하고 Step 3으로 진행한다.
+보완 범위는 최초 15개 브랜드로 제한하지 않았으며, 원문 접근 불가 네이버 및 확인이 불완전한 에누리 자료는 한계로 명시했다. 2026-10-09 사용자 승인으로 COMPLETED. `research/02_candidate_discovery/handoff.md` 작성 후 Step 3으로 진행한다.
