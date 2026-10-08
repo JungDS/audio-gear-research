@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 5
 Depends on: Step 3, Step 4
 
@@ -48,12 +48,12 @@ Depends on: Step 3, Step 4
 
 ## Completion Gate
 
-- [ ] 전 후보가 PASS/HOLD/REJECT로 분류되었다.
-- [ ] 탈락 제품과 최초 후보 ID가 삭제되지 않았다.
-- [ ] 가격 대비 성능 열위 탈락은 명시적 비교 상대, 동일조건 가격, 복수 독립 근거와 예외 장점 점검 기록이 있다.
-- [ ] 가격만으로 REJECT한 후보가 없다.
-- [ ] 측정불가/자료불충분 후보는 불확실성이 보존됐다.
-- [ ] 사용자 검토가 완료됐다.
+- [x] 62개 후보가 PASS 29 / HOLD 33 / REJECT 0으로 분류되었다.
+- [x] 탈락 제품 없음. 최초 후보 62개 ID와 데이터는 모두 유지했다.
+- [x] 동급 조건·복수 독립 근거를 충족하는 가격/성능 열위 REJECT가 없어 탈락시키지 않았고 비교 검토 내용을 기록했다.
+- [x] 높은 가격만으로 REJECT한 후보는 0개다.
+- [x] 모든 HOLD에 검증 질문·비교 후보·관련 출처와 HIGH/MEDIUM/LOW 조사 우선순위를 남겼다.
+- [ ] 사용자 검토 및 다음 단계 승인 대기.
 
 ## Prohibited Shortcuts
 
@@ -63,6 +63,16 @@ Depends on: Step 3, Step 4
 - 단일 추천글이나 커뮤니티 투표만으로 REJECT 금지
 - 최신 리비전/연결방식/유통형태가 다른 모델을 동일조건이라고 가정 금지
 - 정밀 Step 6/8/9 완료 전 최종 추천 순위 확정 금지
+
+## Actual Outputs (2026-10-09)
+
+- `research/05_pre_filter/result.md` — 62개 전체 검토, 9개 직접 비교 사례, 기술/유통 조건
+- `research/05_pre_filter/triage.csv` — 후보 ID별 판정·우선순위·비교 상대·근거·재확인 조건
+- `data/candidates.csv` — PASS 29 / HOLD 33 / REJECT 0
+- `data/evidence.csv` — Step 5 근거 E0200~E0226
+- `decisions/rejected_products.md` — 근거 없는 탈락 0건 기록
+
+현재 단계 `REVIEW`. 사용자가 승인하기 전 Step 6은 시작하지 않는다.
 
 ## Handoff
 
