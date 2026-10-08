@@ -57,6 +57,10 @@
 - Seller
 - Distribution_Type
 - Price_Type: LISTED/DEAL
+  - LISTED는 사이트가 표시한 판매 제시가격이며 **재고 보유나 실시간 결제 가능 보장 아님**.
+  - DEAL은 카드/회원/쿠폰/포인트 등 조건부 할인액이며 일반 최저가와 별도.
+  - 표시가격이 품절/오픈박스/리퍼/한정판뿐이라면 해당 조건을 Conditions/Notes에 명시하고 새 제품 비교요약에서 제외.
+  - Checked_Date는 연구 조사일(페이지 조회일)이며 원자료 갱신일·장바구니 가격 확인과 다를 수 있음.
 - Price_KRW
 - Shipping_KRW
 - Conditions
@@ -73,10 +77,10 @@ Step 4에서 원가격 스냅샷을 종합해 후보별 시장가격을 요약�
 - Normal_Price_KRW
 - Current_Low_Price_KRW
 - Deal_Price_KRW
-- Normal_Price_Basis
+- Normal_Price_Basis: 서로 다른 출처에서 반복 확인된 비조건부 표시가격의 중심 추정에만 값을 채움; 실제 과거 거래가격이나 장기 통상가 확정 아님
 - Comparison_Scope: OFFICIAL_ONLY/MIXED/IMPORT_ONLY/UNKNOWN
-- Price_Stability: HIGH/MEDIUM/LOW/UNKNOWN
-- Sources_Count
+- Price_Stability: HIGH/MEDIUM/LOW/UNKNOWN (장기 가격 시계열 없으면 UNKNOWN)
+- Sources_Count: 후보별 조사에서 사용한 별개의 출처 포털/도메인 수(판매자 수와 다름)
 - Confidence
 - Notes
 
