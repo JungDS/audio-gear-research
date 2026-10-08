@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-09 — Step 5 preliminary screening (REVIEW)
+
+- Completed first-pass evidence-aware screening for all 62 candidates without deleting IDs.
+- Classified 29 PASS (12 HIGH, 17 MEDIUM), 33 HOLD (2 HIGH, 12 MEDIUM, 19 LOW), and 0 REJECT.
+- Compared candidate pairs including ATH-R50x/DT900 PRO X, FT1 PRO/ROG Kithara, K361/K371, SHP9500/SHP9600, and wired versus powered consumer ANC equipment.
+- Created `research/05_pre_filter/result.md` and `research/05_pre_filter/triage.csv` with comparator IDs, individual reasons, evidence IDs, recheck questions and research priorities.
+- Appended E0200–E0226 expert measurements, reviews, official AUX/analog support and current HD 6XX manufacturer status.
+- Preserved high-end future-purchase candidates despite higher sticker prices; chose deferred investigation over unsupported acoustic or performance-per-price rejection.
+- Deferred 19 low-priority HOLD candidates from first-wave deep research, focusing Step 6 on 12 PASS/HIGH models.
+- Updated candidates.csv and rejection register; Step 5 remains REVIEW pending user approval.
+
+
 ## 2026-10-09 — Approved performance-per-price screening rule
 
 - User approved Step 4 and authorized Step 5 to begin.
