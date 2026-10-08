@@ -1,4 +1,4 @@
-Status: REVIEW
+Status: COMPLETED
 Stage: 6
 Depends on: Step 5
 
@@ -64,7 +64,7 @@ Depends on: Step 5
 
 독립 측정자료가 충분하지 않은 모델(특히 신형/전문 제품)은 LOW로 표시했다. `Independent_Source_2`의 출처가 공식 매뉴얼이거나 같은 RTINGS 비교이면 **독립된 두 번째 측정실로 계산하지 않는다**. 수치적 객관 평가를 억지로 채우지 않는다.
 
-Step 6 조사 결과는 REVIEW 상태이며 사용자가 승인하기 전 Step 7로 이동하지 않는다.
+2026-10-09 승인 완료. `research/06_audio_analysis/handoff.md` 작성 후 Step 7 진행.
 
 ## Handoff
 
