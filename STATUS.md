@@ -2,28 +2,28 @@
 
 ## Current Phase
 
-**STEP 2 IN PROGRESS — CANDIDATE DISCOVERY**
+**STEP 2 REVIEW — CANDIDATE POOL READY**
 
-Step 1 Brand Map is complete. Step 2 is collecting candidates independently through brand-based, community/expert-based, and Korean-market discovery.
+Step 2 Candidate Discovery is complete and awaiting user review.  
+The pool contains 43 merged candidates from three independent discovery paths.
 
 ## Current Step
 
 - Step: 2 — Candidate Discovery
-- Status: IN_PROGRESS
-- Detail: [plan/02_candidate_discovery.md](plan/02_candidate_discovery.md)
+- Status: REVIEW
+- Result: [research/02_candidate_discovery/result.md](research/02_candidate_discovery/result.md)
+- Sources: [research/02_candidate_discovery/source_matrix.md](research/02_candidate_discovery/source_matrix.md)
 - Previous: Step 1 — COMPLETED
 
 ## Progress
 
-- [x] Step 0 baseline completed
-- [x] Step 1 brand map completed
-- [x] Step 1 handoff written
-- [x] Step 2 started
-- [ ] 2A Brand-based discovery completed
-- [ ] 2B Community / expert discovery completed
-- [ ] 2C Korea-market reverse discovery completed
-- [ ] Candidate duplicates merged
-- [ ] Discovery paths preserved
+- [x] 2A Brand-based discovery completed
+- [x] 2B Community / expert discovery completed
+- [x] 2C Korea-market reverse discovery completed
+- [x] Candidate duplicates merged
+- [x] Discovery paths preserved
+- [x] Candidate pool written to data/candidates.csv
+- [x] Discovery evidence written to data/evidence.csv
 - [ ] Step 2 user review completed
 
 ## Do Not Do Yet
@@ -35,7 +35,7 @@ Step 1 Brand Map is complete. Step 2 is collecting candidates independently thro
 
 ## Next Action
 
-Collect and merge the Step 2 candidate pool while preserving the three independent discovery paths.
+User reviews the 43-candidate discovery pool. After approval, write Step 2 handoff and start Step 3 — Product Status & Lifecycle.
 
 ## Last Updated
 
