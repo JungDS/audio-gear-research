@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 4
 Depends on: Step 3
 
@@ -47,12 +47,12 @@ Depends on: Step 3
 
 ## Completion Gate
 
-- [ ] 판매처별 가격 원자료가 기록되었다.
-- [ ] MSRP와 실판매가가 분리되었다.
-- [ ] 통상가/현재 최저가/조건부 특가가 구분되었다.
-- [ ] 정식유통/병행/직구가 구분되었다.
-- [ ] 가격 확인일과 주요 조건이 기록되었다.
-- [ ] 통상가 산정 근거와 Confidence가 기록되었다.
+- [x] 판매처별 가격 원자료 133건이 기록되었다.
+- [x] MSRP/표시 정가와 가격비교 판매가가 분리되었다.
+- [x] 비교 가능한 표시 최저가 47개, 복수 경로 가격대 중심값 7개, 조건부 특가 20개를 구분했다. 통상가 근거 부족은 UNKNOWN.
+- [x] 국내 정품 표기/해외구매를 구분했다. 실제 판매자 정식유통 권한 미확인은 명시했다.
+- [x] 가격 확인일, 자료 갱신시차, 카드/회원 조건, 배송비 미확인과 품절을 기록했다.
+- [x] 서로 다른 비교 출처로 검증한 7개만 통상 표시가격 근삿값을 산정하고, 나머지는 UNKNOWN과 Confidence를 기록했다.
 
 ## Prohibited Shortcuts
 
@@ -67,4 +67,6 @@ Depends on: Step 3
 - Step 5와 Step 9가 사용할 price summary를 전달한다.
 - 가격 변동이 큰 후보는 재확인 필요 표시를 남긴다.
 
-완료 후 이 파일의 Status를 `REVIEW`로 변경하고 사용자 검토를 거친 뒤에만 `COMPLETED`로 변경한다.
+Step 4 결과: `research/04_price_research/result.md`. 원자료 `data/prices.csv` 133건, 후보별 `data/price_summary.csv` 62행, Step 4 근거 E0143~E0199.
+
+**REVIEW 상태**이며 사용자 승인 전에는 Step 5로 넘어가지 않는다. 가격은 직접 결제 확인이 아닌 온라인 표시/인덱스 스냅샷이므로 실제 구매 전 재확인해야 한다.
