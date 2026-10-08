@@ -1,18 +1,18 @@
 # Project Status
 
 ## Current Phase
-**STEP 5 REVIEW — PRELIMINARY FILTER COMPLETE**
+**STEP 6 IN PROGRESS — AUDIO ANALYSIS**
 
 62개 기존 후보에 대한 첫 성능/가격/연결/구매조건 선별을 수행했다.
 명백히 열위라는 복수 독립 근거를 확보하지 못한 제품은 무리하게 탈락시키지 않고 HOLD로 비용 우선순위를 조정한다.
 
 ## Current Step
-- Step: 5 — Preliminary Filter
-- Status: REVIEW
-- Plan: [plan/05_pre_filter.md](plan/05_pre_filter.md)
+- Step: 6 — Audio Performance Analysis
+- Status: IN_PROGRESS
+- Plan: [plan/06_audio_analysis.md](plan/05_pre_filter.md)
 - Result: [research/05_pre_filter/result.md](research/05_pre_filter/result.md)
 - Triage CSV: [research/05_pre_filter/triage.csv](research/05_pre_filter/triage.csv)
-- Previous: Step 4 — COMPLETED
+- Previous: Step 5 — COMPLETED
 
 ## Result
 - [x] PASS: 29 (HIGH 12, MEDIUM 17)
