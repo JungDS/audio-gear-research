@@ -1,4 +1,4 @@
-Status: REVIEW
+Status: COMPLETED
 Stage: 5
 Depends on: Step 3, Step 4
 
@@ -53,7 +53,7 @@ Depends on: Step 3, Step 4
 - [x] 동급 조건·복수 독립 근거를 충족하는 가격/성능 열위 REJECT가 없어 탈락시키지 않았고 비교 검토 내용을 기록했다.
 - [x] 높은 가격만으로 REJECT한 후보는 0개다.
 - [x] 모든 HOLD에 검증 질문·비교 후보·관련 출처와 HIGH/MEDIUM/LOW 조사 우선순위를 남겼다.
-- [ ] 사용자 검토 및 다음 단계 승인 대기.
+- [x] 사용자 검토 및 다음 단계 승인 완료.
 
 ## Prohibited Shortcuts
 
@@ -72,7 +72,7 @@ Depends on: Step 3, Step 4
 - `data/evidence.csv` — Step 5 근거 E0200~E0226
 - `decisions/rejected_products.md` — 근거 없는 탈락 0건 기록
 
-현재 단계 `REVIEW`. 사용자가 승인하기 전 Step 6은 시작하지 않는다.
+2026-10-09 사용자 승인으로 COMPLETED. 연구 handoff를 기록하고 Step 6을 시작했다.
 
 ## Recorded Results
 
@@ -81,7 +81,7 @@ Depends on: Step 3, Step 4
 - `data/candidates.csv`: PASS 29, HOLD 33, REJECT 0
 - `data/evidence.csv`: E0200–E0226
 - `decisions/rejected_products.md`: 확정 탈락 0건 및 판정 기준
-- User review: PENDING. Do not advance to Step 6 before approval.
+- User review: approved 2026-10-09. Handoff written.
 
 ## Handoff
 
