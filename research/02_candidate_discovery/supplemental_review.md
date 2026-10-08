@@ -1,11 +1,11 @@
 # Step 2 — Supplemental Discovery / Bias Correction
 
 Date: 2026-10-08
-Status: REVIEW
+Status: COMPLETED
 Previous population: 43 (C001–C043)
 Newly registered: 19 (C044–C062)
 Current merged population: 62
-Next stage: Step 3 only after user review and handoff
+Next stage: Step 3 after approved handoff on 2026-10-09
 
 ## Reason for reopening
 
@@ -98,11 +98,11 @@ All rows have Status DISCOVERED. UNKNOWN fields intentionally remain unfilled un
 - [x] No final ranking or performance elimination conducted
 - [ ] Direct Naver original-page access not established
 - [ ] Independent Enuri product coverage incomplete; revisit in Step 4
-- [ ] User review of revised 58-candidate pool
+- [ ] User review of revised 62-candidate pool
 
 ## Decision
 
-Step 2 remains REVIEW pending user review. Do not start Step 3 automatically.
+User approved the 62-candidate research scope on 2026-10-09. Step 2 COMPLETED; Step 3 may begin.
 
 ## Selected primary links
 
