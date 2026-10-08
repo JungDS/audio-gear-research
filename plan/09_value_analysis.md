@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 9
 Depends on: Step 4, Step 8
 
@@ -43,12 +43,12 @@ Depends on: Step 4, Step 8
 
 ## Completion Gate
 
-- [ ] 최소비용 업그레이드 지점이 확인되었다.
-- [ ] 가성비 최적점이 확인되었다.
-- [ ] 지출 상한선 또는 상한선 없음이 근거와 함께 설명되었다.
-- [ ] 특가 의존 후보가 구분되었다.
-- [ ] 명백한 Pareto 열위/우위 관계가 검토되었다.
-- [ ] 근거 없는 정밀 점수화를 사용하지 않았다.
+- [x] 반복 행사 189,000원 HD560S를 현재 근거상 가장 낮은 신뢰 가능한 업그레이드 후보 가격으로 확인(직접 A/B 아님).
+- [x] 음악/일반 게임/영화의 서로 다른 장점별로 약 19~32만원 가격대가 비교 유력 구간임을 확인(단일 만능 1위 없음).
+- [x] 객관적 절대 지출 상한은 근거 부족으로 설정하지 않았고, 35~50만원 이상 추가 지출의 성능 입증 부담을 별도 설명했다.
+- [x] 젠하이저 10월 판매가격, 6/7월 반복 특가, HD600 행사 품절, FT1 PRO 조건부 카드 할인 및 포칼 장기 할인 별도 기록.
+- [x] 20개 비교쌍에서 구매조건·특성·성능 근거를 검토. 전면적 엄격 Pareto 열위 확정 0건, 후순위 후보 별도 표시.
+- [x] 가짜 정밀 점수/음질 향상률/임의 성능 점수 사용하지 않았다.
 
 ## Prohibited Shortcuts
 
@@ -56,6 +56,17 @@ Depends on: Step 4, Step 8
 - 가격대별로 억지로 하나씩 추천하지 않는다.
 - MSRP 할인율을 가치 계산에 넣지 않는다.
 - 근거 없는 체감 점수 120/145 같은 숫자를 만들어 계산하지 않는다.
+
+## Actual Outputs (2026-10-09)
+
+- `research/09_value_analysis/result.md`: 가격대별 교체 가치 분석과 근거, 29개 전수 판단
+- `research/09_value_analysis/value_matrix.csv`: 29개 가격·H7 예상 개선·판단조건
+- `research/09_value_analysis/paired_comparisons.csv`: 동가격대/상위단 비교 20건과 상쇄 장점
+- `research/09_value_analysis/price_refresh.csv`: 최근 10월 행사, 판매처, 재고·갱신시차 17건
+- `data/evidence.csv`: 신규 시장가 E0356–E0369
+- `data/price_summary.csv` Step 4 시점 데이터는 이력 보존. Step 9 행사 시나리오는 별도 관리함.
+
+현재 단계 REVIEW, 사용자 승인 전 Step 10 불가.
 
 ## Handoff
 
