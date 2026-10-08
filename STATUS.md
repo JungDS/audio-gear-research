@@ -1,14 +1,14 @@
 # Project Status
 
 ## Current Phase
-**STEP 6 IN PROGRESS — AUDIO ANALYSIS**
+**STEP 6 REVIEW — ACOUSTIC ANALYSIS RECORDED**
 
 62개 기존 후보에 대한 첫 성능/가격/연결/구매조건 선별을 수행했다.
 명백히 열위라는 복수 독립 근거를 확보하지 못한 제품은 무리하게 탈락시키지 않고 HOLD로 비용 우선순위를 조정한다.
 
 ## Current Step
 - Step: 6 — Audio Performance Analysis
-- Status: IN_PROGRESS
+- Status: REVIEW
 - Plan: [plan/06_audio_analysis.md](plan/05_pre_filter.md)
 - Result: [research/05_pre_filter/result.md](research/05_pre_filter/result.md)
 - Triage CSV: [research/05_pre_filter/triage.csv](research/05_pre_filter/triage.csv)
@@ -38,3 +38,15 @@ Step 5 결과에 대한 사용자 검토를 받는다. 승인되면 handoff를 �
 
 ## Last Updated
 2026-10-09
+
+## Step 6 Coverage
+- [x] 29 PASS acoustic profiles (12 HIGH; 17 MEDIUM)
+- [x] 62 new evidence entries E0227-E0288
+- [x] Fr/mid/treble/THD/stereo matching and qualitative expert caveats
+- [x] 29 structured rows in data/evaluations.csv; all H7 deltas UNKNOWN
+- [x] FT3 version/AR5000 MK2 impedance cautions recorded
+- [ ] FT1 PRO 2024 product-release correction pending synchronization in data/candidates.csv
+- [ ] User approval of Step 6
+
+## Next Action
+Review result and metadata corrections; only after approval create Step 6 handoff and start Step 7 comfort, QC and durability.
