@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-10-09 — Step 3 Product Lifecycle Audit (REVIEW)
+
+- Reviewed all 62 candidates against manufacturer catalog/support and Korean manufacturer distribution pages where available.
+- Added 54 official evidence records E0089–E0142 and `research/03_product_status/result.md` containing a 62-product status matrix.
+- Recorded 47 currently marketed/supported, 2 explicitly discontinued, 13 uncertain lifecycle.
+- Corrected HD 480 PRO open/closed error; corrected AR3000 unverified exhibition-versus-retail launch status.
+- Recorded 2026 JBL LIVE780NC successor and 2025 SteelSeries Nova7 Gen2; retained old generation candidates until pricing.
+- Verified Sony Korea support for INZONE H6 Air; verified some manufacturer ear-pad/cable supply routes.
+- Found conflicting HIFIMAN Korea warranty policy durations (1 versus 2 years depending language) requiring written confirmation.
+- Kept per-model Korean official distribution UNKNOWN for 40 products where specific authorised channel was not confirmed.
+- Lifecycle CURRENT now explicitly means currently manufacturer-marketed/supported, not verified ongoing manufacture.
+- No product was removed or ranked; Step 3 is pending user review.
+
 ## 2026-10-08 — Step 2 bias correction
 
 - Preserved the original 43 candidate records and identifiers.
