@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-08 — Step 2 bias correction
+
+- Preserved the original 43 candidate records and identifiers.
+- Expanded discovery outside the initial 15-brand audiophile map.
+- Reviewed current mainstream gaming and consumer ANC products using 2026 RTINGS, SoundGuys, other expert sources and mixed-use community discussions.
+- Rechecked Korean budget through upper-reference market examples using Danawa and official Korean retail where accessible.
+- Added 15 candidate records C044–C058 (total 58) and 26 evidence records E0054–E0079.
+- Added `research/02_candidate_discovery/supplemental_review.md`; linked it from the original result and source matrix.
+- Correctly flagged direct Naver access limitations and insufficient independent Enuri confirmation.
+- Maintained Step 2 as REVIEW. Did not rank products or advance to Step 3.
+
 All notable changes to the research methodology and project structure are recorded here.
 
 ## 2026-10-07 — Step 0 baseline prepared
