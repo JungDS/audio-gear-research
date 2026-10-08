@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-09 — Step 6 acoustic analysis (REVIEW)
+
+- User approved Step 5; created research/05_pre_filter/handoff.md and began Step 6.
+- Created research/06_audio_analysis/result.md, acoustic_matrix.csv and additional_17.md covering all 29 PASS products (12 higher-priority and 17 medium-priority).
+- Recorded 62 acoustic/source/technical evidence records E0227-E0288 and 29 structured rows in data/evaluations.csv.
+- Kept Resolution/Separation/Imaging/Dynamics and all H7 comparison delta fields UNKNOWN absent consistent proof; use-case estimates marked low confidence.
+- Documented reviewer contradictions (e.g. Audeze MM-100), rig/fit issues, treble versus perceived detail, and differing open-back/closed-back media tradeoffs.
+- Flagged FiiO FT3 32/350ohm distinct versions, aune AR5000 MK2 inconsistent published impedance and FiiO FT1 PRO 2024 launch data correction in metadata_corrections.md.
+- Candidates.csv 2025 date for FT1 PRO still requires synchronization; no final recommendation or move to Step 7 yet.
+- Step 6 is REVIEW pending user approval.
+
+
 ## 2026-10-09 — Step 5 preliminary screening (REVIEW)
 
 - Completed first-pass evidence-aware screening for all 62 candidates without deleting IDs.
