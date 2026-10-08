@@ -3,15 +3,15 @@
 Date: 2026-10-08
 Status: REVIEW
 Previous population: 43 (C001–C043)
-Newly registered: 15 (C044–C058)
-Current merged population: 58
+Newly registered: 19 (C044–C062)
+Current merged population: 62
 Next stage: Step 3 only after user review and handoff
 
 ## Reason for reopening
 
 The initial candidate pool strongly reflected the 15-brand audiophile map and enthusiast-community discovery. Familiar general-consumer and gaming brands (JBL, Corsair, Razer, Logitech, Bose, Marshall) were insufficiently represented. This is a **discovery coverage defect**, not evidence that their products are inferior.
 
-The original 43 candidates, their IDs, their discovery records and baseline reports were preserved unchanged.
+The original 43 candidates, their IDs, their discovery records and baseline reports were preserved unchanged. Fifteen consumer/gaming products were discovered first, followed by four Korean community/market budget products.
 
 ## Supplemental discovery paths
 
@@ -70,6 +70,10 @@ Direct Naver Shopping/Blog access remains limited. Danawa listings may identify 
 | C056 | Anker soundcore | Space One | Budget general-consumer ANC roundup | Korea distribution and price |
 | C057 | Sony | INZONE H6 Air | 2026 open-back gaming cross-category discovery | domestic availability |
 | C058 | Nothing | Headphone (1) | 2025 consumer wireless headphone in 2026 reviews | domestic distribution and powered analog |
+| C059 | Philips | SHP9600 | Korean 2025 budget listening roundup and import listing | currentness; import support |
+| C060 | AKG | K361 | Korean 2025 budget closed-back roundup and genuine listing | K371 comparison; lifecycle |
+| C061 | Sennheiser | HD 599 | Korean 2025 mixed-use open-back discussion and genuine listing | older-line lifecycle |
+| C062 | Audio-Technica | ATH-AD500X | Korean user recommendation and import listing | old inventory; support |
 
 All rows have Status DISCOVERED. UNKNOWN fields intentionally remain unfilled until Step 3. No product has been accepted/rejected based on sound, price or brand.
 
@@ -89,7 +93,7 @@ All rows have Status DISCOVERED. UNKNOWN fields intentionally remain unfilled un
 - [x] General consumer / ANC coverage from independent reviewers
 - [x] Mixed-use community comparisons considered
 - [x] Korean retail cross-check in multiple price bands
-- [x] Fifteen new records merged without ID duplication
+- [x] Nineteen new records merged without ID duplication
 - [x] Each new record connected to evidence registry and discovery flags
 - [x] No final ranking or performance elimination conducted
 - [ ] Direct Naver original-page access not established
@@ -114,4 +118,14 @@ Step 2 remains REVIEW pending user review. Do not start Step 3 automatically.
 - https://prod.danawa.com/info/?pcode=86100683
 - https://newsroom.sennheiser.com/the-gateway-to-audiophile-excellence
 
-Source-specific evidence is recorded as E0054–E0079 in data/evidence.csv.
+Source-specific evidence is recorded as E0054–E0088 in data/evidence.csv.
+
+## Additional independent Korean source
+
+A 2025-12-20 Korean listener roundup on Quasarzone surfaced four more budget/wired candidates independently of the initial 15-brand shortlist. Each was checked against a Danawa listing before registering C059–C062. See evidence E0080–E0088.
+
+- https://quasarzone.com/best/views/all/49957709
+- https://prod.danawa.com/info/?pcode=18854915
+- https://prod.danawa.com/info/?pcode=21505475
+- https://prod.danawa.com/info/?pcode=4592412
+- https://prod.danawa.com/info/?pcode=2097781
