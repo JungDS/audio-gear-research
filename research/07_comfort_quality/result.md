@@ -1,7 +1,7 @@
 # Step 7 — Comfort, QC & Durability
 
 Date: 2026-10-09
-Status: REVIEW
+Status: COMPLETED
 
 ## Scope and judgment method
 
@@ -170,6 +170,6 @@ Each row below is an interpretative confidence and concrete QC evidence class, *
 - [x] Replaceable parts and authorized Korea stock/prices explicitly distinguished.
 - [x] Separate Comfort and QC Confidence preserved, including low confidence where owners have limited history.
 - [x] Existing PASS/HOLD/REJECT classifications retained with risk flags; no unjustified performance-price rejection.
-- [ ] User review / approval of Step 7.
+- [x] User approved Step 7 and advancement to Step 8 on 2026-10-09.
 
 Next after approval: **Step 8 — Direct Comparison against H7 + AE-5**, synthesizing audio and comfort plus actual analog-mode upgrade confidence. No final recommendation until later stages.
