@@ -20,8 +20,8 @@
 |---:|---|---|---|---|
 | 0 | Baseline | COMPLETED | Setup | [plan/00_baseline.md](plan/00_baseline.md) |
 | 1 | Brand Map | COMPLETED | 0 | [plan/01_brand_map.md](plan/01_brand_map.md) |
-| 2 | Candidate Discovery | REVIEW | 1 | [plan/02_candidate_discovery.md](plan/02_candidate_discovery.md) |
-| 3 | Product Status & Lifecycle | NOT_STARTED | 2 | [plan/03_product_status.md](plan/03_product_status.md) |
+| 2 | Candidate Discovery | COMPLETED | 1 | [plan/02_candidate_discovery.md](plan/02_candidate_discovery.md) |
+| 3 | Product Status & Lifecycle | IN_PROGRESS | 2 | [plan/03_product_status.md](plan/03_product_status.md) |
 | 4 | Korean Market Price Research | NOT_STARTED | 3 | [plan/04_price_research.md](plan/04_price_research.md) |
 | 5 | Preliminary Filter | NOT_STARTED | 3, 4 | [plan/05_pre_filter.md](plan/05_pre_filter.md) |
 | 6 | Audio Performance Analysis | NOT_STARTED | 5 | [plan/06_audio_analysis.md](plan/06_audio_analysis.md) |
