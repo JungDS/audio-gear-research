@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-10-09 — Step 8 H7 analog predicted upgrade comparison (REVIEW)
+
+- User approved Step 7; created research/07_comfort_quality/handoff.md and advanced to Step 8.
+- Re-verified Creative H7 Tournament Edition passive 3.5mm mode against independent DIY-Audio-Heaven measurements and Creative support; **not** USB DSP behavior.
+- Analyzed all 29 Step 5 PASS candidates against the H7 passive sound profile and the user's AE-5 Direct Mode usage.
+- Saved `research/08_vs_current/inference_profiles.csv` and source-linked `change_vectors.csv` plus detailed `result.md`.
+- Assessed 10 LIKELY_MEANINGFUL, 14 POSSIBLE_MEANINGFUL, 3 SMALL_OR_UNCERTAIN and 2 uncertain/version-unspecified *potential* tonal-upgrade hypotheses, not buyer rankings or direct measured superiority.
+- Updated canonical `data/evaluations.csv` across 29 model vectors; marked unsupported resolution, separation, imaging, dynamics and user-specific long-term H7 comfort **UNKNOWN**, even for promising models.
+- Preserved bass quantity separate from bass quality and kept movie-isolation and long-wear drawbacks explicit.
+- Added refreshed H7 reference evidence E0353–E0355; reused Step 6/7 references per model.
+- Held Step 8 at REVIEW; Step 9 price/value curve cannot begin until user approval.
+
+
 ## 2026-10-09 — Step 7 Comfort, QC & Durability (REVIEW)
 
 - Completed Step 6 on user approval and recorded its handoff.
