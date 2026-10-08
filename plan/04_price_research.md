@@ -1,4 +1,4 @@
-Status: REVIEW
+Status: COMPLETED
 Stage: 4
 Depends on: Step 3
 
@@ -69,4 +69,4 @@ Depends on: Step 3
 
 Step 4 결과: `research/04_price_research/result.md`. 원자료 `data/prices.csv` 133건, 후보별 `data/price_summary.csv` 62행, Step 4 근거 E0143~E0199.
 
-**REVIEW 상태**이며 사용자 승인 전에는 Step 5로 넘어가지 않는다. 가격은 직접 결제 확인이 아닌 온라인 표시/인덱스 스냅샷이므로 실제 구매 전 재확인해야 한다.
+2026-10-09 사용자 승인에 따라 **COMPLETED**. `research/04_price_research/handoff.md`를 기록하고 Step 5를 시작한다. 가격은 직접 결제 확인이 아닌 온라인 표시/인덱스 스냅샷이므로 실제 구매 전 재확인해야 한다.
