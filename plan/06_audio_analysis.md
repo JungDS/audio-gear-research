@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 6
 Depends on: Step 5
 
@@ -41,17 +41,30 @@ Depends on: Step 5
 
 ## Completion Gate
 
-- [ ] 핵심 음향 항목이 동일한 기준으로 비교되었다.
-- [ ] 객관/주관 근거가 구분되었다.
-- [ ] 충돌하는 근거와 불확실성이 기록되었다.
-- [ ] 사용자 용도별 평가가 포함되었다.
-- [ ] 음향 및 용도 평가의 Confidence가 기록되었다.
+- [x] 29개 PASS의 FR·저역·중역·고역·왜곡·채널 매칭을 동일 항목으로 기록하고 근거 부족은 UNKNOWN.
+- [x] 측정, 실제 청취평, 제조사 사양을 구분해 출처별 기록.
+- [x] 측정 규격 차이, 신형 자료 부족, 리뷰 불일치, FT3 리비전과 MK2 임피던스 논쟁을 기록.
+- [x] 음악·애니 대사·영화·일반 게임의 잠정 적합성과 실제 청취 테스트 미완료를 분리.
+- [x] 객관적 근거 확신과 사용자 용도 추정 확신을 별도로 기록.
 
 ## Prohibited Shortcuts
 
 - RTINGS 또는 특정 리뷰어 하나의 총점을 그대로 순위로 사용하지 않는다.
 - 고역 강조를 해상력과 자동 동일시하지 않는다.
 - 측정으로 직접 알 수 없는 체감을 측정치만으로 단정하지 않는다.
+
+## Actual outputs (2026-10-09)
+
+- `research/06_audio_analysis/result.md`: 핵심 12개 음향 성향 및 평가 충돌
+- `research/06_audio_analysis/acoustic_matrix.csv`: 전체 PASS 29개 모델과 출처/측정/청취/충돌/Confidence
+- `research/06_audio_analysis/additional_17.md`: 나머지 17개 비교분석
+- `research/06_audio_analysis/metadata_corrections.md`: FT1 PRO 출시연도, FT3 임피던스별 리비전, AR5000 MK2 사양 충돌
+- `data/evaluations.csv`: PASS 29개 구조화 평가, H7 비교 필드 UNKNOWN 유지
+- `data/evidence.csv`: E0227–E0288(62개 출처 기록)
+
+독립 측정자료가 충분하지 않은 모델(특히 신형/전문 제품)은 LOW로 표시했다. `Independent_Source_2`의 출처가 공식 매뉴얼이거나 같은 RTINGS 비교이면 **독립된 두 번째 측정실로 계산하지 않는다**. 수치적 객관 평가를 억지로 채우지 않는다.
+
+Step 6 조사 결과는 REVIEW 상태이며 사용자가 승인하기 전 Step 7로 이동하지 않는다.
 
 ## Handoff
 
