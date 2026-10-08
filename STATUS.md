@@ -1,38 +1,39 @@
 # Project Status
 
 ## Current Phase
-**STEP 8 REVIEW — EVIDENCE-BASED H7 + AE-5 ANALOG COMPARISON**
+**STEP 9 REVIEW — KOREAN PRICE-TO-UPGRADE VALUE CURVE**
 
-Step 7 user-approved and completed. Step 8 evaluated 29 PASS models with direction-only inferred change vectors. 33 HOLD candidates retained.
+User approved Step 8; handoff complete. Step 9 assessed 29 PASS models using Step 4 Korean prices, new October sales and expected H7 analog improvements. All 33 HOLD and high-priced future purchase options remain preserved.
 
 ## Current Step
-- Step: 8 — Direct Comparison vs H7 + AE-5
+- Step: 9 — Value Curve
 - Status: REVIEW
-- Plan: [plan/08_vs_current.md](plan/08_vs_current.md)
-- Result: [research/08_vs_current/result.md](research/08_vs_current/result.md)
-- Change vectors: [research/08_vs_current/change_vectors.csv](research/08_vs_current/change_vectors.csv)
-- Previous: Step 7 — COMPLETED
+- Plan: [plan/09_value_analysis.md](plan/09_value_analysis.md)
+- Result: [research/09_value_analysis/result.md](research/09_value_analysis/result.md)
+- Price refresh: [research/09_value_analysis/price_refresh.csv](research/09_value_analysis/price_refresh.csv)
+- Value matrix: [research/09_value_analysis/value_matrix.csv](research/09_value_analysis/value_matrix.csv)
+- Pair checks: [research/09_value_analysis/paired_comparisons.csv](research/09_value_analysis/paired_comparisons.csv)
+- Previous: Step 8 — COMPLETED
 
-## Coverage
-- [x] 29 PASS model comparison matrices completed
-- [x] 10 LIKELY_MEANINGFUL / 14 POSSIBLE_MEANINGFUL / 3 SMALL_OR_UNCERTAIN / 2 uncertain or variant unresolved
-- [x] H7 passive 3.5mm measurements used; USB DSP excluded as inappropriate for user's AE-5 Direct Mode
-- [x] Source references E0006, E0227–E0288, E0289–E0352 and E0353–E0355
-- [x] 29 structured evaluations H7 delta fields set with explicit UNKNOWN for unsupported technical abilities
-- [x] Bass quantity and quality separated; music/general gaming/anime/movies predicted separately
-- [x] Resolution, separation, imaging, dynamics and wearer-specific H7 comfort deltas all UNKNOWN (not directly compared)
-- [x] Price deliberately excluded; Stage 9 value evaluation pending
-- [ ] User approves Step 8
+## Key Results
+- [x] 29 candidate value profile rows
+- [x] 20 pairwise comparisons
+- [x] 17 refreshed Korean price observations incl Oct 7–31 promotions and stock limits
+- [x] 14 evidence rows E0356–E0369 (total evidence 369)
+- [x] HD560S 189000 KRW Oct promotion and historical June/July repetitions, buyer cart still unverified
+- [x] Minimum defendable H7 upgrade entry candidate ~189000 KRW while October price holds
+- [x] Most compelling multidirectional price band roughly 189000–320000 KRW
+- [x] HD600 315000 KRW event listing SOLD OUT, not treated as purchasable
+- [x] No hard maximum budget or claim high-priced headphones intrinsically worse
+- [x] No rigorously proved global Pareto domination (0/29), but high-cost low-evidence products deprioritized
+- [x] Step 4 historical price data retained, not overwritten by time-limited promotions
+- [ ] User Step 9 review
 
 ## Important Limits
-- These are cross-source hypotheses, **NOT measured level-matched A/B improvements**.
-- UP2 means comparatively strong *prediction*, not actual listener-verified effect magnitude.
-- Audio/fit trade-offs may change actual ranking for any user.
-- Stage 9 must treat Step 4 price as dated indexed quotes, not definitive checkout values.
-- All candidates preserved; no permanent REJECT created.
-
-## Next Action
-User reviews the 29 H7 upgrade-potential profiles; if approved, create Step 8 handoff, mark Step 8 COMPLETED and begin Step 9 Value Curve.
+- H7 relative sound changes are predicted using different sources, not measured level-matched A/B.
+- Seller prices are dated listings; stock, checkout and individual authorized service may change.
+- A formal Pareto theorem or numeric sound-per-won ROI is not supported.
+- Step 10 role-based finalists can begin only after the user approves Step 9.
 
 ## Last Updated
 2026-10-09
