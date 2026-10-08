@@ -74,6 +74,15 @@ Depends on: Step 3, Step 4
 
 현재 단계 `REVIEW`. 사용자가 승인하기 전 Step 6은 시작하지 않는다.
 
+## Recorded Results
+
+- `research/05_pre_filter/result.md`: 62개 전수 분석 및 직접 비교
+- `research/05_pre_filter/triage.csv`: 후보별 우선순위와 질문
+- `data/candidates.csv`: PASS 29, HOLD 33, REJECT 0
+- `data/evidence.csv`: E0200–E0226
+- `decisions/rejected_products.md`: 확정 탈락 0건 및 판정 기준
+- User review: PENDING. Do not advance to Step 6 before approval.
+
 ## Handoff
 
 - PASS 및 검증 가치가 남아 있는 HOLD는 Step 6/7에 전달하되, 조사 우선순위와 확인할 의문점을 명확히 한다.
