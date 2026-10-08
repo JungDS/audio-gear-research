@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 7
 Depends on: Step 5
 
@@ -41,16 +41,27 @@ Depends on: Step 5
 
 ## Completion Gate
 
-- [ ] 장시간 착용 특성이 기록되었다.
-- [ ] 반복 QC 이슈와 단발 사례가 구분되었다.
-- [ ] 부품/패드 수급 상태가 반영되었다.
-- [ ] Confidence가 기록되었다.
+- [x] 29개 PASS 장시간 착용·측압·컵 깊이·안경/열감 특성과 근거 부족을 기록했다.
+- [x] 제조사 공식 인정·서로 다른 사용자 보고·일화·자료 부족을 구분했다.
+- [x] 공식 교체부품과 국내 재고/가격 확인 여부를 분리했다.
+- [x] 29개 모델에 착용감·QC 별도 Confidence를 기록했다.
 
 ## Prohibited Shortcuts
 
 - 무게 숫자만으로 편안함을 판정하지 않는다.
 - 단일 불만 후기를 구조적 결함으로 일반화하지 않는다.
 - 초기 착용감과 장시간 착용감을 혼동하지 않는다.
+
+## Actual Outputs (2026-10-09)
+
+- `research/07_comfort_quality/result.md`: 29개 결과 및 QC 위험·부품·국내 서비스 교차분석
+- `research/07_comfort_quality/comfort_qc_matrix.csv`: 후보별 장시간 착용·안경·열감·측압·부품·QC 종류
+- `data/evaluations.csv`: 29개 Comfort/QC/Parts 및 별도 Confidence 보강
+- `data/evidence.csv`: E0289–E0352 (64건 근거)
+- `data/candidates.csv`: FT1 PRO 출시연도 2024 정정, FT3 버전 불명확 표기
+- `research/06_audio_analysis/metadata_corrections.md`: 과거 미해결 사항 일부 정리
+
+현재 상태 REVIEW. Step 8은 사용자 승인 후 시작한다.
 
 ## Handoff
 
