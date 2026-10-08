@@ -1,7 +1,7 @@
 # Step 4 — Korean Market Price Research
 
 Date: 2026-10-09  
-Status: REVIEW
+Status: COMPLETED
 
 ## Purpose
 
@@ -180,7 +180,7 @@ Reasons: no reliable comparable Korean page, outdated/incomplete search results,
 - [x] Observation date, source URL, shipment when confirmed, and price conditions documented; unknown shipping not filled with 0.
 - [x] Normal advertised price derived only for supported multi-portal cases, otherwise UNKNOWN, with explicit confidence.
 - [x] Naver source access limitations and Enuri's partial verification recorded.
-- [ ] User reviews Step 4, including the price uncertainty and unknown cases.
+- [x] User reviewed Step 4 and approved advancing to Step 5 with evidence-based early cost/performance exclusions.
 
 ## Next-step boundary
 
