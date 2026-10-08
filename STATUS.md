@@ -2,34 +2,49 @@
 
 ## Current Phase
 
-**STEP 3 IN PROGRESS — PRODUCT STATUS & LIFECYCLE**
+**STEP 3 REVIEW — PRODUCT LIFECYCLE AUDIT RECORDED**
 
-2026-10-09: 사용자 승인으로 Step 2 완료. 최초 43개와 보완 19개를 포함한 **62개 후보의 제품 현재성**을 조사한다.
+62개 제품의 현행/단종/후속/한국 공식 유통·A/S/부품 상태에 관한 1차 공식 근거 조사를 마쳤다.
 
 ## Current Step
 
 - Step: 3 — Product Status & Lifecycle
-- Status: IN_PROGRESS
+- Status: REVIEW
 - Plan: [plan/03_product_status.md](plan/03_product_status.md)
+- Result: [research/03_product_status/result.md](research/03_product_status/result.md)
 - Previous: Step 2 — COMPLETED
-- Input: data/candidates.csv (C001–C062)
 
-## Required coverage
-- [ ] 모든 후보의 정확한 모델명과 출시 시점 재확인
-- [ ] 현행/단종 상태와 후속 기종 분리
-- [ ] 국내 정식유통, 병행수입, 해외구매 구별
-- [ ] A/S 및 패드/케이블 공급 상태 확인
-- [ ] 구형 재고 위험도 표시
-- [ ] 불확실한 정보 UNKNOWN 및 근거기록
-- [ ] Step 3 사용자 검토
+## Coverage results
 
-## Restrictions
-- 후보 삭제/음질 순위/가격 기준 탈락 금지
-- 제조사 제품 목록 존재만으로 현행 생산 확정 금지
-- 실판매가 비교는 Step 4에서 수행
+- [x] 62 unique models preserved and assessed
+- [x] 47 CURRENT marketed/supported
+- [x] 2 official DISCONTINUED: Philips X2HR, SHP9600
+- [x] 13 UNKNOWN current-new-production/lifecycle
+- [x] Verified and corrected Sennheiser HD 480 PRO to CLOSED
+- [x] Noted 2026 aune AR3000 exhibited but retail launch unverified
+- [x] Mapped successor generations: AR5000 MK2, JBL LIVE780NC, Arctis Nova 7 Gen2
+- [x] 22 per-model official Korean-channel visibility
+- [x] 40 per-model Korean authorised distribution unconfirmed: UNKNOWN, not declared unavailable
+- [x] 12 official spare-part records and 14 more documented replaceable constructions
+- [x] 54 new Step3 official evidence references E0089-E0142
+- [x] Recorded contradictory HIFIMAN Korea-language vs English-language warranty term
+- [ ] User review of Step 3
+
+## Interpretation
+
+CURRENT는 제조사가 현재 판매·전시·지원하는 모델을 의미하며 실제 생산일 확인을 뜻하지 않는다.
+UNKNOWN은 탈락 또는 미판매 확정이 아니다. 다음 단계의 가격/유통사 교차검증에서 추가 확인한다.
+
+## Do Not Do Yet
+
+- 음질 순위/가성비 점수 작성
+- 단종 또는 고가라는 사실만으로 조기 탈락
+- 최신 판매가를 Step 3의 과거 가격 단서에서 확정
+- Step 4 시작 전에 Step 3 사용자 검토 생략
 
 ## Next action
-공식 제조사/한국 유통/지원 자료를 사용해 62개 후보에 대한 1차 제품상태 검증을 기록한다.
+
+사용자에게 Step 3 확인결과와 13개 불확실한 모델, 공식 한국 유통 미확인 40개, 보증 충돌을 공유한다. 승인 후 Step 3 handoff를 작성하고 Step 4 한국시장 가격조사로 이동한다.
 
 ## Last Updated
 2026-10-09
