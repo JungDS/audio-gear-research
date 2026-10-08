@@ -86,4 +86,4 @@ direct original-page access is limited in the current web access path. Do not tr
 
 ## Supplemental source registry — 2026-10-08
 
-Original discovery URLs above are preserved. New independent general-consumer, gaming and Korean-market sources are summarized in [supplemental_review.md](supplemental_review.md) and individually identified by E0054–E0079 in [data/evidence.csv](../../data/evidence.csv). No source is treated as a direct Naver Shopping original.
+Original discovery URLs above are preserved. New independent general-consumer, gaming and Korean-market sources are summarized in [supplemental_review.md](supplemental_review.md) and individually identified by E0054–E0088 in [data/evidence.csv](../../data/evidence.csv). No source is treated as a direct Naver Shopping original.
