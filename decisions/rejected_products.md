@@ -16,21 +16,6 @@
 - 사용자가 중시하는 음질·착용감에서 명백한 열위와 상쇄 장점 부재
 - Confidence와 재검토 트리거(가격, 후속 기종, 사용 목적, 새 근거)
 
-## Step 5 outcome — 2026-10-09
-
-No confirmed REJECT (0 of 62). All candidates are retained.
-
-PASS 29; HOLD 33. Among HOLD, 19 are low priority for detailed research. These are not confirmed inferior products.
-
-A future performance-for-price REJECT requires:
-- Named comparison candidate IDs
-- Comparable domestic new-product price/distribution/warranty terms
-- At least two independent relevant performance evidences, or equivalently strong measurement plus comparison
-- No material compensating sound/comfort/build advantage
-- Confidence and conditions to reconsider
-
-See [Step 5 triage](../research/05_pre_filter/triage.csv) for all hold rationale and conditions.
-
 ## Entry Template
 
 ### Brand / Model
