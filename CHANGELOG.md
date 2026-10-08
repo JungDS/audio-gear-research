@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-09 — Approved performance-per-price screening rule
+
+- User approved Step 4 and authorized Step 5 to begin.
+- Step 4 finalized with handoff, without treating old or cached asking prices as live confirmed checkout values.
+- Updated RULES.md and Step 5 plan: high price alone does not disqualify a future purchase, but a clear **inferior performance-versus-cost** position can justify early REJECT if backed by consistent conditions, comparable lower-cost candidate(s) and at least two independent audio evidences.
+- HOLD is the default where comparative evidence, live pricing, usage conditions or an offsetting strength remains uncertain.
+- Candidate and rejection logs must preserve reasons, alternatives, confidence and reentry conditions; full Pareto/value analysis remains Step 9.
+- Step 5 marked IN_PROGRESS, no candidates yet rejected on the revised methodology.
+
 ## 2026-10-09 — Step 4 Korean market price research (REVIEW)
 
 - Recorded 133 separate Korean retailer/comparison-price observations and 62 candidate price summary rows.
