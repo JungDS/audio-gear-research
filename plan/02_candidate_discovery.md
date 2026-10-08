@@ -1,4 +1,4 @@
-Status: IN_PROGRESS
+Status: REVIEW
 Stage: 2
 Depends on: Step 1
 
@@ -45,13 +45,13 @@ Depends on: Step 1
 
 ## Completion Gate
 
-- [ ] 2A 완료
-- [ ] 2B 완료
-- [ ] 2C 완료
-- [ ] 최근 추천자료와 장기 현역자료가 구분되었다.
-- [ ] 중복 후보가 병합되었다.
-- [ ] 모든 후보에 발견 경로가 기록되었다.
-- [ ] 조기 최종 순위를 만들지 않았다.
+- [x] 2A 완료
+- [x] 2B 완료
+- [x] 2C 완료
+- [x] 최근 추천자료와 장기 현역자료가 구분되었다.
+- [x] 중복 후보가 병합되었다.
+- [x] 모든 후보에 발견 경로가 기록되었다.
+- [x] 조기 최종 순위를 만들지 않았다.
 
 ## Prohibited Shortcuts
 
@@ -67,4 +67,4 @@ Depends on: Step 1
 - 각 후보가 어떤 경로에서 발견됐는지 유지한다.
 - 최근 자료와 오래된 장기평판 자료를 구분해 전달한다.
 
-완료 후 이 파일의 Status를 `REVIEW`로 변경하고 사용자 검토를 거친 뒤에만 `COMPLETED`로 변경한다.
+후보 43개와 discovery source matrix를 기록했다. 사용자 검토 후에만 `COMPLETED`로 변경하고 Step 3으로 진행한다.
