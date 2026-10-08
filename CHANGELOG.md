@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-09 — Step 4 Korean market price research (REVIEW)
+
+- Recorded 133 separate Korean retailer/comparison-price observations and 62 candidate price summary rows.
+- Observed 54 candidates with some Korean listing evidence; 47 have plausible listed new-product lows, 15 remain UNKNOWN.
+- Derived conservative approximate typical **advertised** new-product prices only for seven candidates with clustered cross-portal evidence; all price stability UNKNOWN.
+- Separated Korean genuine listing categories, imported offers, card/member conditional prices, stock-out, open-box/refurb and limited editions.
+- Verified independent Enuri cross-checks for a subset of FiiO, Sony and Sennheiser while noting September refresh dates.
+- Excluded sold-out HIFIMAN Korean official-store advertised prices from purchasable low comparison.
+- Recorded Step 4 evidence E0143–E0199 and `research/04_price_research/result.md`.
+- Price pages are non-live snapshots, and seller checkout/shipping/warranty confirmation remains pending for final purchase decisions.
+- Step 4 held at REVIEW, no Step 5 started.
+
 ## 2026-10-09 — Step 3 Product Lifecycle Audit (REVIEW)
 
 - Reviewed all 62 candidates against manufacturer catalog/support and Korean manufacturer distribution pages where available.
