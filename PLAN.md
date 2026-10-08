@@ -27,7 +27,7 @@
 | 6 | Audio Performance Analysis | COMPLETED | 5 | [plan/06_audio_analysis.md](plan/06_audio_analysis.md) |
 | 7 | Comfort, QC & Durability | COMPLETED | 5 | [plan/07_comfort_quality.md](plan/07_comfort_quality.md) |
 | 8 | Direct Comparison vs H7 + AE-5 | COMPLETED | 6, 7 | [plan/08_vs_current.md](plan/08_vs_current.md) |
-| 9 | Value Curve | IN_PROGRESS | 4, 8 | [plan/09_value_analysis.md](plan/09_value_analysis.md) |
+| 9 | Value Curve | REVIEW | 4, 8 | [plan/09_value_analysis.md](plan/09_value_analysis.md) |
 | 10 | Finalists | NOT_STARTED | 9 | [plan/10_finalists.md](plan/10_finalists.md) |
 | 11 | Counter Review | NOT_STARTED | 10 | [plan/11_counter_review.md](plan/11_counter_review.md) |
 
