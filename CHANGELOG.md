@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-09 — Step 9 Value Curve (REVIEW)
+
+- Step 8 approved, result status completed, and handoff to Step 9 recorded.
+- Compared 29 candidates against Korean market price data, 17 refreshed price conditions and 20 pair comparisons.
+- Verified October HD560S ₩189,000 and HD550 ₩254,000 retailer campaigns; HD600 ₩315,000 offer marked SOLD OUT. HD560S 189k sales also found in June and July.
+- Added `research/09_value_analysis/result.md`, `executive_summary_ko.md`, `value_matrix.csv`, `paired_comparisons.csv` and `price_refresh.csv`; recorded E0356–E0369.
+- Value concentration estimated around ₩189,000–₩320,000; no hard price ceiling or unverified strict Pareto domination, 33 HOLD and high-end future purchases preserved.
+- Step 9 status REVIEW; Step 10 not started pending user approval.
+
+
 ## 2026-10-09 — Step 8 H7 analog predicted upgrade comparison (REVIEW)
 
 - User approved Step 7; created research/07_comfort_quality/handoff.md and advanced to Step 8.
