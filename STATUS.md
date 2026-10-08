@@ -2,40 +2,41 @@
 
 ## Current Phase
 
-**STEP 1 REVIEW — BRAND MAP READY**
+**STEP 2 IN PROGRESS — CANDIDATE DISCOVERY**
 
-Step 1 Brand Map 조사와 기록을 완료했고 사용자 검토를 기다리고 있다.  
-제품 후보 등록과 순위 평가는 아직 시작하지 않았다.
+Step 1 Brand Map is complete. Step 2 is collecting candidates independently through brand-based, community/expert-based, and Korean-market discovery.
 
 ## Current Step
 
-- Step: 1 — Brand Map
-- Status: REVIEW
-- Result: [research/01_brand_map/result.md](research/01_brand_map/result.md)
-- Detail: [plan/01_brand_map.md](plan/01_brand_map.md)
-- Previous: Step 0 — COMPLETED
+- Step: 2 — Candidate Discovery
+- Status: IN_PROGRESS
+- Detail: [plan/02_candidate_discovery.md](plan/02_candidate_discovery.md)
+- Previous: Step 1 — COMPLETED
 
 ## Progress
 
 - [x] Step 0 baseline completed
-- [x] Step 1 brand scope mapped
-- [x] Current / long-running / legacy lineups separated
-- [x] Korean distribution / support visibility checked
-- [x] Brand overrepresentation safeguards defined
-- [ ] Step 1 user review completed
+- [x] Step 1 brand map completed
+- [x] Step 1 handoff written
+- [x] Step 2 started
+- [ ] 2A Brand-based discovery completed
+- [ ] 2B Community / expert discovery completed
+- [ ] 2C Korea-market reverse discovery completed
+- [ ] Candidate duplicates merged
+- [ ] Discovery paths preserved
+- [ ] Step 2 user review completed
 
 ## Do Not Do Yet
 
-- 후보 제품 등록
-- 후보 제품 순위 작성
-- 국내 가격 정밀 조사
-- H7 대비 제품별 점수화
-- 최종 후보 선정
+- 후보 음질 최종 순위 작성
+- 가격만으로 후보 탈락
+- H7 대비 제품별 최종 점수화
+- 최종 추천 선정
 
 ## Next Action
 
-사용자가 Step 1 Brand Map 결과를 검토한다. 승인 후 Step 1 handoff를 작성하고 Step 2 — Candidate Discovery를 시작한다.
+Collect and merge the Step 2 candidate pool while preserving the three independent discovery paths.
 
 ## Last Updated
 
-2026-10-07
+2026-10-08
