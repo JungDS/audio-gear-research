@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-10-09 — Step 7 Comfort, QC & Durability (REVIEW)
+
+- Completed Step 6 on user approval and recorded its handoff.
+- Evaluated 29 PASS headphone models for ear clearance, clamp, long-session wear, heat/glasses, structure and parts, with 33 HOLD candidates retained.
+- Added research/07_comfort_quality/result.md and comfort_qc_matrix.csv and populated Comfort/QC/Parts fields in data/evaluations.csv.
+- Added 64 specific Step 7 evidence references E0289–E0352 including Korean independent ATH-R50x ownership reviews.
+- Manufacturer FiiO confirms early FT1/FT1 PRO pivot glue/screw issue, claimed manufacturing redesign from 2024-11-20 and rare FT1 PRO bass-noise/inspection process; distinct later owner cases flagged without inventing failure rates.
+- Identified repeated MDR-M1 ear-contact and ATH-R70xa cup tilt/fit issues; separated those from manufacturing failures.
+- Distinguished US/EU official spare parts from confirmed in-stock Korean repair and service prices.
+- Corrected FT1 PRO C016 release year to official 2024 global launch and marked FT3 C017 unresolved 32Ω versus 350Ω SKU.
+- No forced REJECT or final product ranking; Step 7 held at REVIEW until user approval.
+
+
 ## 2026-10-09 — Step 6 acoustic analysis (REVIEW)
 
 - User approved Step 5; created research/05_pre_filter/handoff.md and began Step 6.
