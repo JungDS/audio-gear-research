@@ -25,7 +25,7 @@
 | 4 | Korean Market Price Research | COMPLETED | 3 | [plan/04_price_research.md](plan/04_price_research.md) |
 | 5 | Preliminary Filter | COMPLETED | 3, 4 | [plan/05_pre_filter.md](plan/05_pre_filter.md) |
 | 6 | Audio Performance Analysis | COMPLETED | 5 | [plan/06_audio_analysis.md](plan/06_audio_analysis.md) |
-| 7 | Comfort, QC & Durability | IN_PROGRESS | 5 | [plan/07_comfort_quality.md](plan/07_comfort_quality.md) |
+| 7 | Comfort, QC & Durability | REVIEW | 5 | [plan/07_comfort_quality.md](plan/07_comfort_quality.md) |
 | 8 | Direct Comparison vs H7 + AE-5 | NOT_STARTED | 6, 7 | [plan/08_vs_current.md](plan/08_vs_current.md) |
 | 9 | Value Curve | NOT_STARTED | 4, 8 | [plan/09_value_analysis.md](plan/09_value_analysis.md) |
 | 10 | Finalists | NOT_STARTED | 9 | [plan/10_finalists.md](plan/10_finalists.md) |
