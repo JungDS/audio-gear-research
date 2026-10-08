@@ -83,3 +83,7 @@ https://prod.danawa.com/info/?pcode=17027156
 
 Naver Shopping / Blog:
 direct original-page access is limited in the current web access path. Do not treat snippets or mirrored pricing as direct verification.
+
+## Supplemental source registry — 2026-10-08
+
+Original discovery URLs above are preserved. New independent general-consumer, gaming and Korean-market sources are summarized in [supplemental_review.md](supplemental_review.md) and individually identified by E0054–E0079 in [data/evidence.csv](../../data/evidence.csv). No source is treated as a direct Naver Shopping original.
