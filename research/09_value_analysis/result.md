@@ -1,7 +1,7 @@
 # Step 9 — Korean Price-to-Upgrade Value Curve
 
 Date: 2026-10-09
-Status: REVIEW
+Status: COMPLETED
 Scope: 29 PASS sound-profile candidates; 33 HOLD remain eligible for reactivation.
 
 ## Executive findings
@@ -174,7 +174,7 @@ For actual buy links and sellers: see [price_refresh.csv](price_refresh.csv), [d
 - [x] 20 explicit pairwise comparisons; no false mathematical Pareto dominance.
 - [x] Marked event-dependence and recurrent specials, not conflating MSRP with market value.
 - [x] Saved all 29 model statuses and reasons; did not force permanent REJECT.
-- [ ] User review/approval before Step 10 finalists.
+- [x] User approved Step 9 and advanced to Step 10 on 2026-10-09.
 
 ## Next Step
 
