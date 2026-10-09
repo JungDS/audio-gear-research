@@ -1,39 +1,42 @@
 # Project Status
 
 ## Current Phase
-**STEP 9 REVIEW — KOREAN PRICE-TO-UPGRADE VALUE CURVE**
+**STEP 10 REVIEW — ROLE-BASED FINALISTS**
 
-User approved Step 8; handoff complete. Step 9 assessed 29 PASS models using Step 4 Korean prices, new October sales and expected H7 analog improvements. All 33 HOLD and high-priced future purchase options remain preserved.
+2026-10-09: User approved Step 9; handoff to Step 10 recorded. Evaluated distinct roles among 29 PASS candidates. All 62 candidate IDs retained, 33 HOLD and premium specialist models not deleted.
 
 ## Current Step
-- Step: 9 — Value Curve
+- Step: 10 — Finalists
 - Status: REVIEW
-- Plan: [plan/09_value_analysis.md](plan/09_value_analysis.md)
-- Result: [research/09_value_analysis/result.md](research/09_value_analysis/result.md)
-- Price refresh: [research/09_value_analysis/price_refresh.csv](research/09_value_analysis/price_refresh.csv)
-- Value matrix: [research/09_value_analysis/value_matrix.csv](research/09_value_analysis/value_matrix.csv)
-- Pair checks: [research/09_value_analysis/paired_comparisons.csv](research/09_value_analysis/paired_comparisons.csv)
-- Previous: Step 8 — COMPLETED
+- Plan: [plan/10_finalists.md](plan/10_finalists.md)
+- Result: [research/10_finalists/result.md](research/10_finalists/result.md)
+- Shortlist: [research/10_finalists/shortlist.csv](research/10_finalists/shortlist.csv)
+- Market gates: [research/10_finalists/market_gates.csv](research/10_finalists/market_gates.csv)
+- Previous: Step 9 — COMPLETED
 
-## Key Results
-- [x] 29 candidate value profile rows
-- [x] 20 pairwise comparisons
-- [x] 17 refreshed Korean price observations incl Oct 7–31 promotions and stock limits
-- [x] 14 evidence rows E0356–E0369 (total evidence 369)
-- [x] HD560S 189000 KRW Oct promotion and historical June/July repetitions, buyer cart still unverified
-- [x] Minimum defendable H7 upgrade entry candidate ~189000 KRW while October price holds
-- [x] Most compelling multidirectional price band roughly 189000–320000 KRW
-- [x] HD600 315000 KRW event listing SOLD OUT, not treated as purchasable
-- [x] No hard maximum budget or claim high-priced headphones intrinsically worse
-- [x] No rigorously proved global Pareto domination (0/29), but high-cost low-evidence products deprioritized
-- [x] Step 4 historical price data retained, not overwritten by time-limited promotions
-- [ ] User Step 9 review
+## Shortlist gate
+- [x] 4 distinct principal cases:
+  - C001 HD560S: affordable open balanced voice/music, October 189000 KRW sale subject to inventory and special return terms
+  - C015 FiiO FT1: closed movie/bass/privacy, ~215670–230000 KRW old genuine price; verify post-fix production and Korea service
+  - C016 FiiO FT1 PRO: open planar, ~313000–317000 KRW old genuine price; verify early fastener/low-frequency rattle QC
+  - C003 Sennheiser HD600: vocal/acoustic reference; 315000 KRW Oct event marked sold out, alternative stale 333–359k KRW offers
+- [x] Tonal alternatives C002 HD550; C024 AKG K371 conditional on sound/fit
+- [x] Future premium challenge-only C040 Focal Hadenys; C052 ASUS ROG Kithara, no automatic expensive-product exclusion
+- [x] Seller listed promotional no-change-of-mind return restrictions noted for Schezade; test in person before purchasing
+- [x] New unlisted HD650 October 329k offer says sale completed; challenge against HD600 in Step11 without silently adding as a fully validated candidate
+- [x] Step10 price, pros/cons, go/no-go and challenge matrix, 16 new evidence rows E0370–E0385, total 385
+- [ ] User approves Step 10
 
-## Important Limits
-- H7 relative sound changes are predicted using different sources, not measured level-matched A/B.
-- Seller prices are dated listings; stock, checkout and individual authorized service may change.
-- A formal Pareto theorem or numeric sound-per-won ROI is not supported.
-- Step 10 role-based finalists can begin only after the user approves Step 9.
+## Important boundaries
+- This is not final purchasing advice until Step 11 counter review.
+- No matched H7 A/B measurement, model-resolution gain and guaranteed audio improvement cannot be asserted.
+- Listed prices and buy buttons are not completed checkout or guaranteed authorized local warranty.
+- Post-fix manufacture dates for exact FiiO retailer units unknown.
+- User-specific 2h fit testing and acceptable open-back noise leakage remain pending.
+- Step11 must test HD650 outside original 62 if restock makes it relevant; otherwise no forced backtracking.
+
+## Next Action
+User reviews Step10 shortlist and approves Step11 to test each finalist's strongest rejection hypothesis before an ultimate recommendation.
 
 ## Last Updated
 2026-10-09
