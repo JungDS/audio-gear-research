@@ -1,4 +1,4 @@
-Status: REVIEW
+Status: COMPLETED
 Stage: 9
 Depends on: Step 4, Step 8
 
@@ -66,7 +66,7 @@ Depends on: Step 4, Step 8
 - `data/evidence.csv`: 신규 시장가 E0356–E0369
 - `data/price_summary.csv` Step 4 시점 데이터는 이력 보존. Step 9 행사 시나리오는 별도 관리함.
 
-현재 단계 REVIEW, 사용자 승인 전 Step 10 불가.
+2026-10-09 사용자 승인으로 COMPLETED. handoff.md 작성 후 Step 10 시작.
 
 ## Handoff
 
