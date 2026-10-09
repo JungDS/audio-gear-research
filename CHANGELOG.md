@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-09 — Step 10 role-based finalist review
+
+- User approved Step9 and its handoff was created.
+- Preserved 62 original candidate IDs and selected four distinct finalist cases: C001 HD560S (low-cost open), C015 FT1 (sealed cinema), C016 FT1 PRO (open planar) and C003 HD600 (natural vocal reference with stock gate).
+- Added C002 HD550 and C024 AKG K371 as conditional tone/fit alternatives; C040 Focal Hadenys and C052 ASUS ROG Kithara as future premium audition challengers rather than price-only exclusions.
+- Rechecked actual October promotional sale and seller change-of-mind return terms; documented unavailable HD600 315k promotion versus older indexed 333–359k offers and FT1/FT1 PRO early batch quality concerns.
+- Added `research/10_finalists/result.md`, `shortlist.csv`, `market_gates.csv`; appended new evidence E0370–E0385.
+- Found unlisted HD650 ~329k promo stock completed. Logged targeted Step11 alternate verification and return-to-previous-stages condition, instead of silently inserting an unverified model.
+- Step10 REVIEW, no final purchase decision until Step11.
+
+
 ## 2026-10-09 — Step 9 Value Curve (REVIEW)
 
 - Step 8 approved, result status completed, and handoff to Step 9 recorded.
