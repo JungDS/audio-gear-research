@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-10 — Step 10 final market audit (REVIEW maintained)
+
+- Re-reviewed pre-existing Step10 finalist report/shortlist/gates instead of redoing or advancing the completed analysis.
+- Corrected FT1 PRO ₩285,300 from supposedly card-only to **conditional Schezade membership** price, requiring multi-step cafe/YouTube approval; ordinary price ₩317,000.
+- Confirmed seller-advertised Sorishop official Korean FiiO importer relationship and one-year FT1 PRO warranty, but not a specific post-fix production lot.
+- Flagged previously HOLD C061 HD599 ₩145,000 October promotion as a **cheaper Step11 challenge** rather than improperly declaring it a proven H7 upgrade.
+- Added source references E0391–E0395 (395 cumulative), updated Step10 result.md, shortlist.csv, market_gates.csv and dated revalidation notes.
+- Rechecked all 8 finalist/alternative/challenger references, 14 purchase-market gates, evidence linkage and CSV integrity with no errors.
+- Step10 remains REVIEW, Step11 NOT_STARTED until user approval.
+
+
 ## 2026-10-09 — Step 10 role-based finalist review
 
 - User approved Step9 and its handoff was created.
