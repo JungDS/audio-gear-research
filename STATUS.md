@@ -12,6 +12,7 @@
 - Result: [research/10_finalists/result.md](research/10_finalists/result.md)
 - Shortlist: [research/10_finalists/shortlist.csv](research/10_finalists/shortlist.csv)
 - Market gates: [research/10_finalists/market_gates.csv](research/10_finalists/market_gates.csv)
+- Oct 10 revalidation: [research/10_finalists/revalidation_2026-10-10.md](research/10_finalists/revalidation_2026-10-10.md)
 - Previous: Step 9 — COMPLETED
 
 ## Shortlist gate
@@ -24,7 +25,7 @@
 - [x] Future premium challenge-only C040 Focal Hadenys; C052 ASUS ROG Kithara, no automatic expensive-product exclusion
 - [x] Seller listed promotional no-change-of-mind return restrictions noted for Schezade; test in person before purchasing
 - [x] New unlisted HD650 October 329k offer says sale completed; challenge against HD600 in Step11 without silently adding as a fully validated candidate
-- [x] Step10 price, pros/cons, go/no-go and challenge matrix, 16 new evidence rows E0370–E0385, total 385
+- [x] Step10 price, pros/cons, go/no-go and challenge matrix, 16 original Step10 evidence rows E0370–E0385 plus Oct10 revalidation E0386–E0390, total 390
 - [ ] User approves Step 10
 
 ## Important boundaries
@@ -39,4 +40,4 @@
 User reviews Step10 shortlist and approves Step11 to test each finalist's strongest rejection hypothesis before an ultimate recommendation.
 
 ## Last Updated
-2026-10-09
+2026-10-10
