@@ -22,10 +22,11 @@
   - C016 FiiO FT1 PRO: open planar, ~313000–317000 KRW old genuine price; verify early fastener/low-frequency rattle QC
   - C003 Sennheiser HD600: vocal/acoustic reference; 315000 KRW Oct event marked sold out, alternative stale 333–359k KRW offers
 - [x] Tonal alternatives C002 HD550; C024 AKG K371 conditional on sound/fit
+- [x] FT1 PRO 285300 member discount separately identified (conditional multi-step cafe+YouTube approval), 317000 standard, seller-disclosed Sorishop official Korean importer and one-year warranty; exact batch unknown
 - [x] Future premium challenge-only C040 Focal Hadenys; C052 ASUS ROG Kithara, no automatic expensive-product exclusion
-- [x] Seller listed promotional no-change-of-mind return restrictions noted for Schezade; test in person before purchasing
-- [x] New unlisted HD650 October 329k offer says sale completed; challenge against HD600 in Step11 without silently adding as a fully validated candidate
-- [x] Step10 price, pros/cons, go/no-go and challenge matrix, 16 original Step10 evidence rows E0370–E0385 plus Oct10 revalidation E0386–E0390, total 390
+- [x] Schezade listing return restrictions noted (buyer statutory rights not assessed); test in person and verify terms before purchasing
+- [x] Missing HD650 329k sale-completed challenge retained; original HOLD C061 HD599 145k promo also assigned to Step11 as a cheaper challenger
+- [x] Step10 finalist and objection data; evidence E0370–E0395, total 395
 - [ ] User approves Step 10
 
 ## Important boundaries
