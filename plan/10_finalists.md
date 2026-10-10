@@ -55,7 +55,7 @@ Depends on: Step 9
 - `research/10_finalists/result.md` — 핵심 최종 검토 4개, 대안 2개, 고가 장기 실청 후보 2개
 - `research/10_finalists/shortlist.csv` — 제품별 역할·가격조건·장단점·Step11 반론
 - `research/10_finalists/market_gates.csv` — 한국 판매조건/품절/특가 반품 제한
-- `data/evidence.csv` — Step10 근거 E0370–E0385
+- `data/evidence.csv` — Step10 근거 E0370–E0395
 - 미포함 HD650 행사물량 품절 및 HD600 경쟁자 문제를 Step11 검증 항목으로 기록
 
 **REVIEW:** 사용자 승인 전에는 Step11 반론검증을 시작하지 않는다.
