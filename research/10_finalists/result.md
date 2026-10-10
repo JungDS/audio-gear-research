@@ -32,11 +32,11 @@ Price caps below are **decision thresholds derived from observed asking-price al
 
 ### C016 — FiiO FT1 PRO: open planar for a different tonal/technical presentation
 
-- **Price seen:** Korean genuine-category indexed 312,930–313,790 KRW; sellers around 317,000 KRW. Card-only 285,300 KRW excluded from normal reference and cheaper import variant has different warranty.
+- **Price seen:** Korean genuine-category indexed 312,930–313,790 KRW; sellers around 317,000 KRW. **285,300 KRW can also be a Schezade membership price**, not solely a credit-card special. The membership price is conditional on a multi-step Naver/cafe/YouTube approval process; distinct card offers and cheaper imported stock have different eligibility/warranty. Unconditional listed price stays 317,000 KRW.
 - **Working purchase threshold:** around **320,000 KRW** genuine, seller-authorized and post-fix stock.
 - **Why here:** relatively measured even midrange, planar driver with good low-distortion findings, credible difference from H7 bass-forward passive response. Different from warmer FT1 rather than unambiguously its 'upgraded version'.
 - **Why not:** open leakage and reduced H7 movie impact; ~374g; same FiiO pivot-issue early batches and manufacturer-described rare planar low-bass rattle.
-- **Step11 challenge:** QC serial/date, safe-volume worn low-frequency passage noise, direct HD560S audition with volume matched, ear/head comfort and parts service. If no meaningful sound gain over 560S, premium not warranted.
+- **Step11 challenge:** QC serial/date, safe-volume worn low-frequency passage noise, direct HD560S audition with volume matched, ear/head comfort and parts service. Schezade lists Sorishop as authorized Korean FiiO distributor and a **one-year importer warranty**, but specific post-fix production date and repair scope still require confirmation. If no meaningful sound gain over 560S, premium not warranted.
 
 ### C003 — Sennheiser HD 600: natural vocal / acoustic reference (conditional availability)
 
@@ -58,11 +58,17 @@ Price caps below are **decision thresholds derived from observed asking-price al
 
 Audeze MM-100, FiiO FT5, Meze 105 AER, DT900 PRO X, Sony MDR-MV1, aune SR7000 and other still-valid models are **deferred** rather than falsely rejected. Reopen upon strongly favorable Korean pricing, consistent side-by-side listening or user-specific preference. HIFIMAN Edition XS and ANANDA NANO remain original HOLD pending verified fresh sealed stock, warranty and reliability.
 
+## 2026-10-10 evidence correction: conditional FT1 PRO pricing
+
+Schezade [FT1 PRO product page](https://www.schezade.co.kr/goods/g_detail.html?gid=5953) publishes **317,000 KRW ordinary and 285,300 KRW membership**. [Membership rules](https://www.schezade.co.kr/pagegen/v2/custom/membership/index.php) demand matched Naver site/cafe login, cafe advancement with 10 comments, and YouTube steps, followed by approval. Thus 285,300 is **NOT solely a card-only price**, and it is NOT an unconditional offer for every buyer. It lowers the possible HD560S price gap from 128,000 to 96,300 KRW **only for an eligible member** and after seller cart verification. Official importer Sorishop and one-year warranty are seller-disclosed but not proof of post-fix 2024+ batches. Supporting evidence E0391–E0393.
+
+**Cheaper challenger added:** HD599 C061 at **145,000 KRW** October promotion appears in the same Sennheiser campaign. It remains HOLD because its *actual H7 sound improvement* has insufficient comparative proof; its mere lower price cannot displace C001. Test whether it should reenter detailed comparisons in Step11 (E0394). This is a known candidate ID, not a new discovery.
+
 ## Unlisted competitor alert for Step 11
 
 **Sennheiser HD 650** (not one of original C001–C062) is a material counter-review challenger to HD600: Schezade October category previously displayed 329,000 KRW, but the **individual promotional product page says sale completed**, not a purchasable offer. RTINGS compares HD600/650 as similar natural-midrange references, with somewhat softer fit on HD650 and other tonal subtleties. Do **not** silently add this model as a verified finalist or treat sold-out 329k as executable.
 
-Step11 must explicitly check stock, compare HD650 against HD600 and decide whether a return-to-discovery gate is required. New comparison material alone does not justify erasing past candidate IDs or rerunning all 62. Other omitted competing models can be tested if they appear at similar price.
+Step11 must explicitly check stock, compare HD650 against HD600 and decide whether a return-to-discovery gate is required. New comparison material alone does not justify erasing past candidate IDs or rerunning all 62. Other omitted competing models can be tested if they appear at similar price, including the cheaper **existing HOLD C061 HD599 at 145,000 KRW**.
 
 ## Korean-market purchasing evidence
 
@@ -87,7 +93,7 @@ FiiO manufacturing date can be requested of the seller but was not confirmed for
 - [x] Each finalist includes price reference, positive upgrade case, tradeoffs and explicit do-not-buy triggers.
 - [x] All finalist H7 claims anchored to prior audio and analog-mode evidence, labeled prediction.
 - [x] Price offer stock status and import/warranty ambiguities distinguished.
-- [x] Direct Step11 objections specified, including HD650 unreviewed challenger and FiiO QC.
+- [x] Direct Step11 objections specified, including HD650 unreviewed challenger, existing HD599 145k challenger, FiiO QC, and 285300 member-only eligibility.
 - [x] High-end long-term options retained and justified conditionally rather than price-capped.
 - [ ] User review/approval before Step 11.
 
